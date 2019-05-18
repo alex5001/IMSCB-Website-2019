@@ -1,0 +1,149 @@
+
+/***** Across all devices *****/
+
+#fees-intro
+{
+    background: url(../img/fees-intro-min.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+p
+{
+    width: 100ch;
+}
+
+.plan-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5vw 10vw;
+    .plan-wrap
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 30vw;
+        margin: 5vw;
+        padding: 5vw 5vw;
+        color: #fff;
+        background: rgba(0, 0, 0, .5);
+        .plan-title-price
+        {
+            display: inline-block;
+            padding: 8px 16px;
+            margin: 0 1em;
+            color: #fff;
+            background: rgba( 30, 144, 255, .5 );
+            text-decoration: none;
+            white-space: nowrap;
+//            cursor: pointer;
+            overflow: hidden;
+            text-align: center;
+        }
+        .plan-list
+        {
+            list-style: none;
+            padding: 0;
+            .plan-item
+            {
+                text-align: center;
+                padding: .5em;
+                border-bottom: 1px solid #999;
+//                background: rgba( 0, 0, 0, .3 );
+            }
+            .plan-item:last-of-type
+            {
+                border-bottom: 0px;
+            }
+        }
+        .btn
+        {
+            margin: .5em;
+        }
+    }
+}
+
+#active-passive-section
+{
+    background: url(../img/active-vs-passive-min.jpg);
+    background-size: cover;
+}
+#for-everyone
+{
+    background: url(../img/all-packages-min.JPG);
+    background-size: cover;
+}
+
+#acc-package
+{
+    background: url(../img/accommodation-package-min.jpg);
+    background-size: cover;
+}
+
+
+
+/***** Desktop *****/
+@media only screen and (min-width: 1001px) {
+    
+    
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 1000px) {
+    
+    #fees-intro
+    {
+        .intro-wrap
+        {
+            width: 95vw;
+//            padding: 10em;
+            p
+            {
+                width: unset;
+            }
+        }
+    }
+    .plan-section
+    {
+        flex-direction: column;
+        .plan-wrap
+        {
+            width: 80vw;
+        }
+    }
+    
+}
+
+/***** Desktop *****/
+@media only screen and (min-width: 769px) {
+    
+    .plan
+    {
+        width: 30%;
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 768px) {
+    
+    #plans-wrap
+    {
+        flex-direction: column;
+        .plan
+        {
+            width: 80%;
+        }
+    }
+    
+}

@@ -1,0 +1,184 @@
+
+
+/***** Across all devices *****/
+
+#workshops-sections
+{
+    background: url(../img/workshops-intro-min.jpg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    .ws-section-link
+    {
+        margin: .5em;
+    }
+}
+
+#ws-content
+{
+    .ws-section
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        h1
+        {
+            text-align: center;
+        }
+        .ws-wrap
+        {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100vw;
+            .ws
+            {
+                position: relative;
+                .ws-cover-thumbnail
+                {
+                    width: 100%;
+                }
+                .ws-filter
+                {
+                    right: 0;
+                    z-index: 0;
+                }
+                .ws-details
+                {
+                    color: #fff;
+                    position: absolute;
+                    top: 0;
+                    width: 100%;
+                    height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    .ws-title
+                    {
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+}
+
+body
+{
+//    position: relative;
+}
+
+#ws-showcase
+{
+    position: fixed;
+    z-index: 10000;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    img
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    #sc-details-wrap
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(0, 0, 0, .5);
+        #sc-ws-title
+        {
+            align-self: flex-start;
+//            color: red;
+        }
+        #sc-ws-speaker
+        {
+            align-self: flex-start;
+//            color: blue;
+        }
+        #sc-ws-description
+        {
+//            text-align: justify;
+//            color: red;
+        }
+        #sc-ws-location
+        {
+            align-self: flex-start;
+//            color: blue;
+        }
+    }
+}
+
+
+/***** 768px Breakpoint *****/
+/***** Over *****/
+@media only screen and (min-width: 769px) {
+    
+    
+    
+}
+
+
+/***** Under *****/
+@media only screen and (max-width: 768px) {
+    
+    
+    
+}
+
+
+/***** 1000px Breakpoint *****/
+/***** Over *****/
+@media only screen and (min-width: 1001px) {
+    
+    #ws-showcase
+    {
+        padding: 10vh 15vw;
+        #sc-details-wrap
+        {
+            padding: 5vw;
+            justify-content: flex-start;
+        }
+    }
+    .ws
+    {
+        width: 33.333333%;
+    }
+    
+}
+
+
+/***** Under *****/
+@media only screen and (max-width: 1000px) {
+
+    #ws-showcase
+    {
+        padding: 10vw;
+        #sc-details-wrap
+        {
+            max-height: 90vh;
+            overflow: scroll;
+//            padding: 3vw;
+            justify-content: flex-start;
+        }
+    }
+    .ws-wrap
+    {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
+
+
+
+

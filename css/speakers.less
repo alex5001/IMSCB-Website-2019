@@ -1,0 +1,68 @@
+
+/***** Across all devices *****/
+
+#speakers-sections
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    .spk-section-link
+    {
+        margin: .5em;
+    }
+}
+
+.spk-section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .spk-wrap
+    {
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        .spk
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .spk-avatar
+            {
+                width: 100%;
+            }
+        }
+    }
+}
+
+
+/***** Desktop *****/
+@media only screen and (min-width: 769px) {
+    
+    .spk-wrap
+    {
+        flex-direction: row;
+        .spk
+        {
+            width: 33.333333%;
+        }
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 768px) {
+    
+    .spk-wrap
+    {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}

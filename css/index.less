@@ -1,0 +1,86 @@
+
+
+/***** Common Rules *****/
+
+#hp-intro
+{
+    background: url(../img/homepage-intro-min.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    #hp-intro-title
+    {
+        text-align: center;
+        align-self: center;
+    }
+    p
+    {
+        text-align: center;
+    }
+}
+
+#hp-newsfeed
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    .hp-story
+    {
+        display: flex;
+        width: 70%;
+        align-items: center;
+    }
+    .story-details
+    {
+        .story-title
+        {
+            font-weight: 500;
+        }
+    }
+}
+
+/***** Desktop *****/
+@media only screen and (min-width: 1001px) {
+    
+    .story-cover
+    {
+        width: 50%;
+        height: auto;
+    }
+    .story-details
+    {
+        width: 50%;
+        padding: 2em;
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 1000px) {
+    
+    .hp-story
+    {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .story-cover
+        {
+            order: 1;
+            width: 100%;
+        }
+        .story-details
+        {
+            order: 2;
+            width: 100%;
+            padding: .5em;
+        }
+    }
+    
+}
+

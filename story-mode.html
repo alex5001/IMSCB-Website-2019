@@ -1,0 +1,68 @@
+ <!DOCTYPE html>
+<html>
+<head>
+
+    <!--Some metadata-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Page Title</title>
+
+    <!--Load CSS files-->
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/import.css" rel="stylesheet" type="text/css">
+    <link href="css/story-mode.css" rel="stylesheet" type="text/css">
+    
+    <!--Load JS STANDARD files-->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+
+    <!--Load JS CUSTOM files-->
+    <script src="js/nav&footer.js"></script>
+    <script src="js/story-mode-slider.js"></script>
+
+</head>
+<body>
+    
+    <header>
+        <div id="nav-wrap"><!-- Here goes nav.js --></div>
+    </header>
+
+    <div id="story-slider-wrap" class="full-viewport">
+       
+        <span class="slider-ctrl slider-ctrl-left" onclick="plusDivs(-1)"><img src="img/left.svg" alt=""></span>
+        <span class="slider-ctrl slider-ctrl-right" onclick="plusDivs(+1)"><img src="img/right.svg" alt=""></span>
+        
+        <div class="full-viewport story-page slide">
+            <img src="img/sample.jpg" alt="" class="absolute-cover">
+            <div class="slide-details-wrap">
+                <h1>Lorem 1 Ipsum </h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+        </div>
+        
+        <div class="full-viewport story-page slide">
+            <img src="img/sample-2.jpg" alt="" class="absolute-cover">
+            <div class="slide-details-wrap">
+                <h1>Lorem 2 Ipsum Lorem Ipsum </h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+        </div>
+        
+        <div class="full-viewport story-page slide">
+            <img src="img/sample-3.jpg" alt="" class="absolute-cover">
+            <div class="slide-details-wrap">
+                <h1>Lorem 3 Ipsum Lorem Ipsum Lorem Ipsum </h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+        </div>
+        
+        <script src="js/story-mode-slider.js"></script>
+        
+    </div>
+    
+    
+    <footer>
+        <div id="footer-wrap"><!-- Here goes nav&footer.js --></div>
+    </footer>
+
+</body>
+</html> 

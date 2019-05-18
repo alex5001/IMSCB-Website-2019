@@ -1,0 +1,60 @@
+
+/***** Across all devices *****/
+
+#social-sections
+{
+    background: url(../img/social-events-min.jpg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    .spk-section-link
+    {
+        margin: .5em;
+    }
+}
+
+.ev-section
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .ev-wrap
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        .ev
+        {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            padding: 2vw;
+        }
+    }
+}
+
+
+/***** Desktop *****/
+@media only screen and (min-width: 769px) {
+    
+    .ev-wrap
+    {
+        width: 50%;
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 768px) {
+    
+    .ev-wrap
+    {
+        width: 80%;
+    }
+    
+}

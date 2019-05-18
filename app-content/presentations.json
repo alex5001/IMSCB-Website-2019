@@ -1,0 +1,433 @@
+[
+    {
+        "title": "Fundamental Sciences",
+        "location": "“Carol Davila” University of Medicine and Pharmacy",
+        "locationlink": "https://goo.gl/maps/f5R3gRnMtqs",
+        "time": "8th of December at 8:30",
+        "presentations": [
+            {
+                "author": "Delia Melania I. Popa",
+                "coauthors": "Şerpeanu MA Irina Alexandra, Alexandru-Dan R. C. Costache",
+                "scicoord": "Professor Ionela-Lacramioara Șerban, Lecturer Minela Aida Mărănducă",
+                "title": "Angiotensin II - a key factor in the occurance of renal fibrosis",
+                "interval": "8:30 - 8:40"
+            },
+            {
+                "author": "Razvan Alexandru A. Steopoaie",
+                "coauthors": "",
+                "scicoord": "Associate Professor Ana-Maria Zagrean",
+                "title": "Cerebellum as a controller of oscillatory cortical activity from normal to pathological states",
+                "interval": "8:40 - 8:50"
+            },
+            {
+                "author": "Patricia-Demetria R.F. Popovici",
+                "coauthors": "",
+                "scicoord": "Student Ruairi J.V. Roberts, MD PhD Marta Costa, Student Serene Dhawan, MD PhD Gregory S.X.E. Jefferis, Student Alexander Shakeel Bates",
+                "title": "Connectomics analysis of wind-sensing and memory retrieval pathways in Drosophila melanogaster",
+                "interval": "8:50 - 9:00"
+            },
+            {
+                "author": "Laura D. Preoteasa",
+                "coauthors": "Alida Nicoleta G. Dumitru, Claudia A. Mihail, Diana Elena P. Pirlea",
+                "scicoord": "MD PhD Dana Preoteasa",
+                "title": "Diabetic retinopathy – sentence to blindness?",
+                "interval": "9:00 - 9:10"
+            },
+            {
+                "author": "Ana D. Damaschin",
+                "coauthors": "Andrei D. Damaschin, Cosmin I.G. Tartau",
+                "scicoord": "Associate Professor Liliana Mititelu-Tartau",
+                "title": "Effects of two nitrates in nociceptive reactivity in mice – experimental data",
+                "interval": "9:10 - 9:20"
+            },
+            {
+                "author": "Andrei D. Damaschin",
+                "coauthors": "Ana D. Damaschin, Cosmin I.G. Tartau, Ioana-Irina C. Rezus",
+                "scicoord": "MD PhD Liliana Mititelu-Tartau",
+                "title": "Experimental data regarding the effects of codeine –Flurbiprofen association in nociceptive sensitivity in mice",
+                "interval": "9:20 - 9:30"
+            },
+            {
+                "author": "Miruna M. Rașcu",
+                "coauthors": "",
+                "scicoord": "Lecturer Homira  Behbahani",
+                "title": "In vitro cleavage of total tau by Human Serine Protease HtrA2/Omi",
+                "interval": "9:30 - 9:40"
+            },
+            {
+                "author": "Raluca-Elena G.S. Mitran",
+                "coauthors": "Patricia-Demetria R.F. Popovici, Miruna M Rascu",
+                "scicoord": "MD Mihai Stancu",
+                "title": "In vivo chemogenetic modulation of seizure activity in mice",
+                "interval": "9:40 - 9:50"
+            },
+            {
+                "author": "Andreea Maria I Zariosu",
+                "coauthors": "Sarah Alexandra M. Abdullah",
+                "scicoord": "Lecturer Pantu Cosmin",
+                "title": "The coronary sinus: anatomic correlations and image orientation",
+                "interval": "9:50 - 10:00"
+            },
+            {
+                "author": "Andrei C. Mesina",
+                "coauthors": "Ovidiu I. Mihailescu, Flavia Mihaela C. Stoicea, Laura Andreea I. Mîndrilă",
+                "scicoord": "Professor Mindrila Ion",
+                "title": "The effect of iron oxide nanoparticles functionalized with salicylic acid on the development of chorioallantoic membrane vessels of the avian embryo.",
+                "interval": "10:00 - 10:10"
+            },
+            {
+                "author": "Hennadii P. Petrochenkov",
+                "coauthors": "Olexandra Vasylivna Garvasiuk",
+                "scicoord": "MD PhD Olexandra Garvasiuk",
+                "title": "The features of the histochemical peculiarities of limited proteolysis in the placental trophoblast associated with iron deficiency anemia of pregnancy and premature term of the chorionic tree",
+                "interval": "10:10 - 10:20"
+            },
+            {
+                "author": "Georgeta G. Pop",
+                "coauthors": "",
+                "scicoord": "MD PhD Mihaela Elvira Cimpean, Assistant Lecturer Mihaela Laura Vica, MD PhD Stefana Balici, Professor Horea-Vladi Matei, Lecturer Costel-Vasile Seserman",
+                "title": "The frequency of HLA-A, -B and -C alleles in Transylvania’s population",
+                "interval": "10:20 - 10:30"
+            },
+            {
+                "author": "Teodora Ana T. Balan",
+                "coauthors": "Constantina Stephanie G. Panayiotou, Diana V. Andreș",
+                "scicoord": "MD PhD Simona Eliza Giușcă, MD PhD Irina Draga Căruntu",
+                "title": "Tumor angiogenesis in colon adenocarcinoma – an immunohistochemical point of view",
+                "interval": "10:40 - 10:50"
+            },
+            {
+                "author": "Lucia L. Indrei",
+                "coauthors": "Ilinca L. Barbulescu",
+                "scicoord": "Lecturer Cosmin Panțu",
+                "title": "Variants of circle of Willis and their clinical significance",
+                "interval": "10:50 - 11:00"
+            }
+        ]
+    },
+    {
+        "title": "Medical Sciences",
+        "location": "“Carol Davila” University of Medicine and Pharmacy",
+        "locationlink": "https://goo.gl/maps/f5R3gRnMtqs",
+        "time": "8th of December at 8:00",
+        "presentations": [
+            {
+                "author": "Cătălina M. Popovici",
+                "coauthors": "Alexandra Nicoleta N. Ioanid, Ioana Adriana A.G. Șerban, Ștefania Mădălina P.D. Asavei",
+                "scicoord": "Assist. Lect. Mihaela Dora Donciu, MD, PhD",
+                "title": "A Challenging Case of Syndrome of Innapropiate Secretion of Antidiuretic Hormone with Associated Acid-Base and Hydroelectrolitycal Disturbances",
+                "interval": "8:00 - 8:10"
+            },
+            {
+                "author": "Claudia-Andreea C. Ene",
+                "coauthors": "Laura Maria A.T. Georgescu",
+                "scicoord": "",
+                "title": "Unexpected etiology of a third-degree atrioventricular block",
+                "interval": "8:10 - 8:20"
+            },
+            {
+                "author": "Crystal C. Hsue",
+                "coauthors": "Margaret K. Ho",
+                "scicoord": "Prof. Amy Tein-Yee Chang MD, PhD",
+                "title": "A Cross-Sectional Study on the Attitudes and Perceptions of Outpatients Towards Palliative Care at the Hong Kong Queen Mary Hospital Hospice Centre",
+                "interval": "8:20 - 8:30"
+            },
+            {
+                "author": "Aditya M. Batra",
+                "coauthors": "Srinivasa Murthy Doreswamy, MD",
+                "scicoord": "",
+                "title": "Automated gravity feeding using Feed Rail: Comparison of time taken for feeding stable preterm babies between regular nurse feeding and feeding with feed rail – Randomised control trial",
+                "interval": "8:30 - 8:40"
+            },
+            {
+                "author": "Prince T.B. Twum Barimah",
+                "coauthors": "",
+                "scicoord": "Prof. Elena Pokryshko, MD, PhD",
+                "title": "Fabry Disease – A Rare undiagnosed disease",
+                "interval": "8:40 - 8:50"
+            },
+            {
+                "author": "Hennadii P. Petrochenkov",
+                "coauthors": "Snizhana V. Pasailiuk, Olexandra Vasylivna Garvasiuk",
+                "scicoord": "Veronika Kulachek, MD, PhD",
+                "title": "Features and diagnostic value of β2-microglobulin in the blood and urine of patients with rheumatoid arthritis with kidney disease",
+                "interval": "8:50 - 9:00"
+            },
+            {
+                "author": "Eren Gunes",
+                "coauthors": "Duygu D. Deringol, Emin Ozcan, Esra S. Hatipoglu",
+                "scicoord": "Acad. Ayhan Bingol",
+                "title": "Neurosteroids in Multiple Sclerosis",
+                "interval": "9:00 - 9:10"
+            },
+            {
+                "author": "Louise B.L. Schweizer",
+                "coauthors": "",
+                "scicoord": "Prof. Martin Schuhmann, MD, PhD; Susanne Kerscher, MD, PhD",
+                "title": "The correlation between third ventricle diameter (TVD) and ventricular Indices at the time of Diagnosis and during its evolution in pediatric hydrocephalus",
+                "interval": "9:10 - 9:20"
+            },
+            {
+                "author": "Betul Beyza Mentes",
+                "coauthors": "Ayla Solmaz Avcikurt, Esra S. Hatipoglu, Meral Mert",
+                "scicoord": "Assoc. Prof. Omur Gunladi, MD, PhD",
+                "title": "USP8 Expression in Pituitary Adenomas",
+                "interval": "9:20 - 9:30"
+            },
+            {
+                "author": "Ergina C. Syrigou",
+                "coauthors": "Christos G. Tsagkaris",
+                "scicoord": "Alexandros Kamaratos, MD",
+                "title": "The Negative VAC Pressure Method in Diabetic Foot Therapy: Presentation of a Case with a Review of the Related Literture",
+                "interval": "9:30 - 9:40"
+            },
+            {
+                "author": "Cristina Victoria Nicoleta G. Herghelegiu",
+                "coauthors": "Andreea I.M. Zoican",
+                "scicoord": "Assoc. Prof. Mariana Jinga, MD, PhD; Vasile Daniel Balaban, MD, PhD",
+                "title": "Black esophagus - a rare case of gastrointestinal bleeding",
+                "interval": "9:40 - 9:50"
+            },
+            {
+                "author": "Anamaria Romana V.L. Orghidan",
+                "coauthors": "",
+                "scicoord": "Magda Mitu, MD, PhD; Lect. Mihai Roca, MD, PhD; Assist. Lect. Ioana Mădălina Zota, MD, PhD; Prof. Florin Mitu, MD, PhD",
+                "title": "Sleep-disordered breathing in a patient with cocaine-induced dilated cardiomyopathy",
+                "interval": "9:50 - 10:00"
+            },
+            {
+                "author": "Matei R. Iurea",
+                "coauthors": "Anamaria Giorgiana V. Felecan, Georgeta G. Argatu, Ioana Lavinia N. Misirig",
+                "scicoord": "Cristina Mări, MD, PhD; Ionuț Isaia Jeican, MD",
+                "title": "Nitrite Poisoning in Infants-Therapeutic Challenges",
+                "interval": "10:30 - 10:40"
+            },
+            {
+                "author": "Andreas V. Savin",
+                "coauthors": "Andreea I.A. Martiniuc, Andrei Cătălin D. Coroiu, Paula N. Sofica",
+                "scicoord": "Lect. Irina Eșanu, MD, PhD",
+                "title": "Silent heart attack hidden by a respiratory infection",
+                "interval": "10:40 - 10:50"
+            },
+            {
+                "author": "Andra-Delia V. Dorneanu",
+                "coauthors": "Raluca L.D. Timofte",
+                "scicoord": "Assist. Lect. Mihaela Blaj, MD, PhD",
+                "title": "Cytokine adsorber treatment in sepsis-clinical case",
+                "interval": "10:50 - 11:00"
+            },
+            {
+                "author": "Alexandru Cristian F. Rusin",
+                "coauthors": "",
+                "scicoord": "Marian Constantinescu, MD",
+                "title": "A rare case of survival from primary amoebic meningoencephalitis",
+                "interval": "11:00 - 11:10"
+            },
+            {
+                "author": "Irina Andreea C. Vîlceanu",
+                "coauthors": "Robert Mihai I.L. Enache, Ruxandra Florentina C. Ionescu",
+                "scicoord": "Lect. Ion Relu Ondin Zaharia, MD, PhD",
+                "title": "Polymyalgia rheumatica - the importance of differential diagnosis",
+                "interval": "11:10 - 11:20"
+            },
+            {
+                "author": "Robert Mihai I.L. Enache",
+                "coauthors": "Irina Andreea C. Vîlceanu, Mihaela-Cezara B.I. Dumitru, Ruxandra Florentina C. Ionescu",
+                "scicoord": "Lidia Radu, MD; Assoc. Prof. Silvia Gabriela Gheorghe, MD, PhD; Brândușa Zamfirescu, MD; Andrei Căpitănescu, MD",
+                "title": "Systemic lupus erythematosus-a challenging diagnosis",
+                "interval": "11:20 - 11:30"
+            },
+            {
+                "author": "Andrei-Mihai M.V. Iacob",
+                "coauthors": "Maria Alexandra G.C. Vișan",
+                "scicoord": "Andrea Blasio, MD",
+                "title": "Trivalvular Heart Disease with a history of Non-Hodgkin Lymphoma",
+                "interval": "11:30 - 11:40"
+            },
+            {
+                "author": "Ionuț I. Bratu",
+                "coauthors": "",
+                "scicoord": "Assist. Lect. Athena Ribigan, MD, PhD; Florina Antochi, MD, PhD; Prof. Ovidiu Băjenaru, MD, PhD",
+                "title": "A New Approach In The Case Of A Patient Diagnosed With Amyotrophic Lateral Sclerosis Who Did Not Respond To Treatment With Riluzole",
+                "interval": "11:40 - 11:50"
+            },
+            {
+                "author": "Cătălina D. Brănișteanu",
+                "coauthors": "Alexandra Nicoleta N. Ioanid, George D. Brănișteanu",
+                "scicoord": "Prof. Daciana Brănișteanu, MD, PhD",
+                "title": "Lung cancer revealed by adult dermatomyositis - therapeutic challenges",
+                "interval": "11:50 - 12:00"
+            },
+            {
+                "author": "",
+                "coauthors": "",
+                "scicoord": "",
+                "title": "",
+                "interval": ""
+            }
+        ]
+    },
+    {
+        "title": "Surgical Sciences",
+        "location": "“Carol Davila” University of Medicine and Pharmacy",
+        "locationlink": "https://goo.gl/maps/f5R3gRnMtqs",
+        "time": "8th of December at 8:30",
+        "presentations": [
+            {
+                "author": "Gabriel R. Șerban",
+                "coauthors": "",
+                "scicoord": "Sorin Târnoveanu, MD",
+                "title": "Juvenile Pilocytic Astrocytoma of the Posterior Fossa",
+                "interval": "8:30 - 8:40"
+            },
+            {
+                "author": "Remus-Andrei C. Tofan",
+                "coauthors": "Stefania G. Gherghe-Moise, Adina Georgiana A. Para",
+                "scicoord": "Mihaela Pertea, MD, PhD",
+                "title": "Ear Replantation - A Real Challenge",
+                "interval": "8:40 - 8:50"
+            },
+            {
+                "author": "Chrysanthos D. Christou",
+                "coauthors": "Alexandros A. Tsolakidis",
+                "scicoord": "Apostolos Prionas, MD, Andreas Tooulias, MD, Assoc. Prof. Tsoulfas Georgios, Prof. Vasileios Papadopoulos",
+                "title": "Evaluating Trauma Management, Outcomes and Economic Data in a System in Crisis: Changes Required for Improvement",
+                "interval": "8:50 - 9:00"
+            },
+            {
+                "author": "Calina M.C. Dan",
+                "coauthors": "Loredana-Maria N. Conțiu, Andreea C. Nistor",
+                "scicoord": "Anamaria-Victoria Bumbu, MD, PhD",
+                "title": "In Vivo Electric Conductivity Study Regarding New Reconstruction Methods Used in Nerve Regeneration",
+                "interval": "9:00 - 9:10"
+            },
+            {
+                "author": "Maria Ilinca D. Iosub",
+                "coauthors": "Andrei C. Manu",
+                "scicoord": "Cătălin-Bogdan Coroleucă, MD, PhD, Asst. Lect. Ciprian-Andrei Coroleucă, Asst. Lect. Diana-Elena Comandaș, Diana Mihai, MD, PhD , Prof. Elvira Brătilă, MD, PhD",
+                "title": "Incidence of Precancerous Lesions During Screening in the Rural Area",
+                "interval": "9:10 - 9:20"
+            },
+            {
+                "author": "Mohammed T. Mutar",
+                "coauthors": "Mohammed S. Ibrahim, Ali M. Hadi",
+                "scicoord": "Assoc. Prof. Aqeel Shakir Mahmood, MD, PhD",
+                "title": "The Pattern of Presentation of Patients with Breast Cancer in Iraq",
+                "interval": "9:20 - 9:30"
+            },
+            {
+                "author": "Camelia A. Alexandroaia",
+                "coauthors": "Romina-Marina E. Sima, Delia M. Carp",
+                "scicoord": "Assoc. Prof. Liana Pleş, MD, PhD",
+                "title": "The Quality of Life in Primiparous Patients According to Delivery Method",
+                "interval": "9:30 - 9:40"
+            },
+            {
+                "author": "Stefan M. Cretu",
+                "coauthors": "",
+                "scicoord": "Prof. Aureliu Batrînac, MD, PhD, Andrei Ureche, MD, PhD, Lect. Adrian Rotaru, MD, PhD, Serghei Voitov, MD",
+                "title": "The Use of Vancomycin as an Effective Element in Mediastinitis Prophylaxis",
+                "interval": "9:40 - 9:50"
+            },
+            {
+                "author": "Maria Gołębiowska",
+                "coauthors": "Robert Chudzik, Beata Golebiowska",
+                "scicoord": "Lect. Beata Golebiowska, MD, PhD",
+                "title": "Three Editions of National Surgical Summer School in Poland as a Significant Tool in Improving Surgical Medical Education",
+                "interval": "9:50 - 10:00"
+            }
+        ]
+    },
+    {
+        "title": "Case Report",
+        "location": "“Carol Davila” University of Medicine and Pharmacy",
+        "locationlink": "https://goo.gl/maps/f5R3gRnMtqs",
+        "time": "8th of December at 8:30",
+        "presentations": [
+            {
+                "author": "Andrei C. Manu",
+                "coauthors": "Maria Ilinca D Iosub, Alexandru-Dan R. C. Costache",
+                "scicoord": "Asst. Lect Ciprian-Andrei Coroleucă, MD, PhD; Asst. Lect. Diana-Elena Comandașu, MD, PhD; Diana Mihai, MD, PhD; Elvira Brătilă, MD, PhD; Prof. Cătălin-Bogdan Coroleucă, MD, PhD",
+                "title": "Robotic Myomectomy – the Newest Approach of Uterine Fibromatosis",
+                "interval": "8:30 - 8:40"
+            },
+            {
+                "author": "Andreea I.A. Martiniuc",
+                "coauthors": "Andreas V Savin, Paula N Sofica, Andrei Cătălin D. Coroiu",
+                "scicoord": "Assoc. Prof. Ioan Sarbu, MD, PhD",
+                "title": "Pediatric Wandering Spleen: a Difficult Assignment",
+                "interval": "8:40 - 8:50"
+            },
+            {
+                "author": "Adina Georgiana A. Para",
+                "coauthors": "Angela C. Oarza, Remus-Andrei C. Tofan",
+                "scicoord": "Mihai Pertea, MD, PhD",
+                "title": "Periorbital Necrotizing Fascitiits- a Rare Disease with a Fulminant Evolution",
+                "interval": "8:50 - 9:00"
+            },
+            {
+                "author": "Maria-Delia N. Florean",
+                "coauthors": "",
+                "scicoord": "Cristina Peris-Martinez, MD, PhD; Mikhail Hernandez Diaz, MD, PhD",
+                "title": "Descement’s Membrane Endothelial Keratoplasty Triple Procedure",
+                "interval": "9:00 - 9:10"
+            },
+            {
+                "author": "Maria Catalina Ceausescu",
+                "coauthors": "Olga Dănăilă",
+                "scicoord": "Lect. Cristian Paleru, MD, PhD",
+                "title": "From HPV Vertical Infection to Thoracic Surgery – 80 Interventions in a 25 Years Old Male",
+                "interval": "9:10 - 9:20"
+            },
+            {
+                "author": "Maria-Luciana M. Loghinoaia",
+                "coauthors": "Eusebiu Petru D. Irina",
+                "scicoord": "Lect. Radu Iulian, MD, PhD; Prof. Viorel Scripcariu, MD, PhD",
+                "title": "Four primary malingnancies in BRCA1 mutation patient",
+                "interval": "9:20 - 9:30"
+            },
+            {
+                "author": "Laura B. Florea",
+                "coauthors": "",
+                "scicoord": "Alina Prodan, MD, PhD; Mihai Matei, MD, PhD",
+                "title": "An Uncommon Approach to a Large Incisional Hernia Case Combining Botulinum Toxin A Administration with Posterior Component Separation",
+                "interval": "9:50 - 10:00"
+            },
+            {
+                "author": "George F. Karanasios",
+                "coauthors": "",
+                "scicoord": "Stamatis Sapountzis, MD",
+                "title": "Nasal Reconstruction with Double Paramedian Forehead Flap",
+                "interval": "10:00 - 10:10"
+            },
+            {
+                "author": "Alexandra G.C.Visan",
+                "coauthors": "Andrei-Mihai M.V. Iacob",
+                "scicoord": "Prof. Ottavio Alfieri, MD, PhD",
+                "title": "Edge-to-edge (Afilieri) Mitral Repair Complicated by Paroxysmal Atrial Fibrillation and Severe Tricuspid Insufficiency",
+                "interval": "10:10 - 10:20"
+            },
+            {
+                "author": "Oana R.D. Pintilii",
+                "coauthors": "Andra-Maria C.C. Cojocaru",
+                "scicoord": "Asst. Lect. Elena Hanganu, MD, PhD",
+                "title": "A Rare Jejunoileal Case in a Neonate and the Best Surgical Management",
+                "interval": "10:20 - 10:30"
+            },
+            {
+                "author": "Ana-Maria S-V. Ilasi",
+                "coauthors": "Laura-Maria C-M. Grigoraș",
+                "scicoord": "Asst. Lect. Laura Stroică, MD, PhD; Ioan Marinescu, MD, PhD",
+                "title": "Challenging Lower Lip Reconstruction after Excision of a Large Squamous Cell Carcinoma Tumor",
+                "interval": "10:30 - 10:40"
+            },
+            {
+                "author": "Alina-Alexandra F. Negrila",
+                "coauthors": "",
+                "scicoord": "Chen Xigen, MD, PhD",
+                "title": "SMILE Reconstruction - a Reliable Technique",
+                "interval": "10:40 - 10:50"
+            }
+        ]
+    }
+]

@@ -1,0 +1,153 @@
+
+
+/***** Across all devices *****/
+
+#contact-intro
+{
+    background: url(../img/contact-intro-min.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .contact-details
+    {
+        display: flex;
+        flex-wrap: wrap;
+        width: 60vw;
+        .mail
+        {
+//            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .address
+        {
+//            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
+
+#form-sidebar-wrap
+{
+    display: flex;
+    background: rgba(0, 0, 0, .5);
+    #sidebar-wrap
+    {
+        width: 30vw;
+        padding: 0 0 0 10vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        #sidebar
+        {
+            background: rgba(0, 0, 0, .5);
+            width: 100%;
+        }
+    }
+    #contact-form-wrap
+    {
+        width: 70vw;
+        padding: 0 10vw;
+        display: flex;
+        align-items: center;
+        input, textarea
+        {
+            border: none;
+            padding: 0;
+            color: #fff;
+            padding: 1em;
+            margin: 1em 0;
+            background: rgba(0, 0, 0, .5);
+        }
+        input
+        {
+//            height: 3em;
+        }
+        #contact-form
+        {
+            display: flex;
+            flex-wrap: wrap;
+//            justify-content: space-between;
+            .half-wrap
+            {
+                width: 25vw;
+                display: flex;
+                flex-direction: column;
+                .half-width-input
+                {
+                    width: 22.5vw;
+                }
+            }
+            .half-wrap:nth-child(2)
+            {
+                align-items: flex-end;
+            }
+            #message
+            {
+                width: 50vw;
+            }
+        }
+    }
+}
+
+
+/***** Desktop *****/
+@media only screen and (min-width: 1001px) {
+    
+    .contact-details
+    {
+        .mail
+        {
+            width: 50%;
+            align-content: flex-start;
+        }
+        .address
+        {
+            width: 50%;
+            align-content: flex-end;
+            text-align: right;
+        }
+    }
+    #contact-form-wrap
+    {
+        width: 60%;
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 1000px) {
+    
+    
+    .contact-details
+    {
+        .mail
+        {
+            width: 100%;
+            align-items: center;
+            padding: 1em;
+        }
+        .address
+        {
+            width: 100%;
+            align-items: center;
+            text-align: center;
+            padding: 1em;
+        }
+    }
+    #contact-form-wrap
+    {
+        width: 80%;
+    }
+    #form-sidebar-wrap
+    {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}

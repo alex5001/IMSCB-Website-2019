@@ -1,0 +1,190 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124189155-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-124189155-1');
+    </script>
+
+    <!--Some metadata-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WS Compatibility Checker</title>
+
+    <!--Load CSS files-->
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/import.css" rel="stylesheet" type="text/css">
+    <link href="css/ws-checker.css" rel="stylesheet" type="text/css">
+    
+    <!--Load JS STANDARD files-->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+
+    <!--Load JS CUSTOM files-->
+    <script src="js/nav&footer.js"></script>
+    <script src="js/ws-checker.js"></script>
+
+</head>
+<body>
+    
+    <header>
+        <div id="nav-wrap"> <!-- Here goes nav&footer.js --> </div>
+    </header>
+    
+    <div id="wrap" class="full-viewport">
+       
+        <div class="intro-wrap">
+            <h1>Workshop Compatibility Checker</h1>
+            <p>Having difficulties choosing your workshops? This programme will help you check if the workshop from the first category is compatible with the workshop from the second category.</p>
+            <form id="my-form" action="">
+                <p>Your first category Workshop</p>
+                <select name="" id="opt1" class="">
+                    <option selected disabled>First category Workshop</option>
+                <option value="ws01">WS01 - Thursday and Friday- 09:00-13:30 - Advanced Life Support</option>                                                  
+                    <option value="ws02">WS02 - Thursday - 09:30-11:30 - Sleep and respiratory care: Secration Management - Caugh-Assist E70</option>                                     
+                    <option value="ws03">WS03 - Thursday - 16:00-18:00 - 3D Printing</option>
+                    <option value="ws04">WS04 - Thursday - 16:00-18:00 - Healthcare Informatics- Cardiology</option>
+                    <option value="ws05">WS05 - Thursday - 16:00-18:00 - Philips: Abdominal Ultrasonography in Emergency Situations</option>
+                    <option value="ws06">WS06 - Thursday - 16:00-20:00 - RSSS mini Skills in Hepato-Biliary Surgery</option>
+                    <option value="ws07">WS07 - Thursday - 16:00-20:00 - Basic Skills in Laparoscopic Surgery</option>
+                    <option value="ws08">WS08 - Thursday - 16:00-20:00 - Basic Skills in Microsurgery</option>
+                    <option value="ws09">WS09 - Thursday - 16:00-20:00 - Philips: Cardiac Ultrasound</option>
+                    <option value="ws10">WS10 - Thursday - 16:00-20:00 - Basic Clinical Tehniques</option>
+                    <option value="ws11">WS11 - Thursday - 16:30-20:00 - RSSS mini Skills in Kidney Surgery</option>
+                    <option value="ws12">WS12 - Thursday - 16:30-20:00 - Obstetrics and Gynecology workshop</option>
+                    <option value="ws13">WS13 - Thursday - 18:00-20:00 - Trauma Management</option>
+                    <option value="ws14">WS14 - Thursday - 18:00-20:00 - Healthcare Informatics- Cardiology</option>
+                    <option value="ws15">WS15 - Friday - 09:30-11:00 - Sleep and respiratory care - Introduction to Mechanical Ventilation. Types of Mechanical Ventilation</option>
+                    <option value="ws16">WS16 - Friday - 10:00-13:00 - Personalised medical approach- genome-mapping</option>
+                    <option value="ws17">WS17 - Friday - 11:00-13:00 - Thyroid Ultrasound</option>
+                    <option value="ws18">WS15 - Friday - 09:30-11:00 - Sleep and respiratory care - Introduction to Mechanical Ventilation. Types of Mechanical Ventilation</option>
+                    <option value="ws19">WS19 - Friday - 16:00-18:00 - Kidney Dissection</option>
+                    <option value="ws20">WS20 - Friday - 16:00-18:00 - Healthcare Informatics- Oncology</option>
+                    <option value="ws21">WS21 - Friday - 16:00-18:00 - Philips: Abdominal Ultrasound</option>
+                    <option value="ws22">WS22 - Friday - 16:00-20:00 - Basic Skills in Laparoscopic Surgery</option>
+                    <option value="ws23">WS23 - Friday - 16:00-20:00 - Basic Skills in Microsurgery</option>                                    
+                    <option value="ws24">WS24 - Friday - 16:00-20:00 - Neonatal Advanced Life Support</option>
+                    <option value="ws25">WS25 - Friday - 16:00-20:00 - Basic Clinical Tehniques</option>                 
+                    <option value="ws26">WS26 - Friday - 16:30-20:00 - RSSS mini Skills in Cardiovascular Surgery: Aortic Valve Replacement</option>                   
+                    <option value="ws27">WS27 - Friday - 16:30-20:00 - RSSS mini Skills in Eso-Gastric Surgery</option>              
+                    <option value="ws28">WS28 - Friday - 16:30-20:00 - RSSS mini Skills in Thoracic Surgery</option>                    
+                    <option value="ws29">WS29 - Friday - 16:30-20:00 - RSSS mini Skills in Orthopedics</option>                
+                    <option value="ws30">WS30 - Friday - 17:00-20:00 - RSSS Knots & Sutures</option>            
+                    <option value="ws31">WS31 - Friday - 18:00-20:00 - Healthcare Informatics- Oncology</option>             
+                    <option value="ws32">WS32 - Saturday - 08:00-13:30 - RSSS mini Skills in Bowel Surgery</option>                
+                    <option value="ws33">WS33 - Saturday - 08:00-13:30 - RSSS mini Skills in Septoplasty</option>                    
+                    <option value="ws34">WS34 - Saturday - 08:30-13:30 - Cardiac Auscultation</option>                   
+                    <option value="ws35">WS35 - Saturday - 09:30-12:30 - Soft Tissue Ultrasound</option>                            
+                    <option value="ws36">WS36 - Saturday - 09:30-13:30 - Trauma evaluation and management for medical students</option>                    
+                    <option value="ws37">WS37 - Saturday - 10:00-12:00 - Heart Dissection</option>                  
+                    <option value="ws38">WS38 - Saturday - 10:00-12:00 - Axillary Dissection</option>
+                    <option value="ws39">WS39 - Saturday - 16:00-18:00 - Healthcare Informatics- Neurology</option>
+                    <option value="ws40">WS40 - Saturday - 16:00-20:00 - Basic Skills in Laparoscopic Surgery</option>
+                    <option value="ws41">WS41 - Saturday - 16:00-20:00 - Basic Skills in Microsurgery</option>
+                    <option value="ws42">WS42 - Saturday - 16:00-20:00 - Trauma evaluation and management for medical students</option>
+                    <option value="ws43">WS43 - Saturday - 16:30-20:00 - Cardiac Auscultation</option>
+                    <option value="ws44">WS44 - Saturday - 16:30-20:00 - RSSS Knots & Sutures</option>
+                    <option value="ws45">WS45 - Saturday - 16:30-20:00 - RSSS mini Skills in Cardiovascular Surgery: Coronary Bypass</option>
+                    <option value="ws46">WS46 - Saturday - 16:30-20:00 - RSSS mini Skills in Nerve and Tendon Reconstruction</option>
+                    <option value="ws47">WS47 - Saturday - 18:00-20:00 - Healthcare Informatics- Neurology</option>
+                    <option value="ws48">WS48 - Sunday - 08:00-13:00 - RSSS mini Skills in Vascular Surgery</option>
+                    <option value="ws49">WS49 - Sunday - 08:00-13:00 - RSSS mini Skills in Plastic and Reconstructive Surgery</option>
+                    <option value="ws50">WS50 - Sunday - 08:00-13:00 - RSSS mini Skills in Gynecology</option>
+                </select>
+                <p>Your second category Workshop</p>
+                <select name="" id="opt2">
+                    <option selected disabled>Second category Workshop</option>
+                    <option value="ws51">WS51 - Thursday - 08:30-10:30 - Clinical Case: Urology</option>
+                    <option value="ws52">WS52 - Thursday - 09:00-11:00 - Imunohistochemistry</option>
+                    <option value="ws53">WS53 - Thursday - 09:00-11:00 - Clinical Case: Paediatric Surgery</option>
+                    <option value="ws54">WS54 - Thursday - 11:00-13:00 - Breast Patology</option>
+                    <option value="ws55">WS55 - Thursday - 12:00-13:30 - ECG: “Real-Life” Diagnostic Value</option>
+                    <option value="ws56">WS56 - Thursday - 16:00-18:00 - Clinical Case: Orthopaedics</option>
+                    <option value="ws57">WS57 - Thursday - 16:00-18:00 - How to read an X-ray. Advanced principles and trauma management</option>
+                    <option value="ws58">WS58 - Thursday - 16:00-20:00 - Clinical Case: Gastroenterology</option>
+                    <option value="ws59">WS59 - Thursday - 16:00-20:00 - Focused Assessment with Sonography for Trauma</option>
+                    <option value="ws60">WS60 - Thursday - 17:00-20:00 - Interventional Radiology</option>
+                    <option value="ws61">WS61 - Friday - 09:00-11:00 - Basic Autopsy Skills</option>
+                    <option value="ws62">WS62 - Friday - 11:00-13:00 - Clinical Case: Forensic Medicine</option>
+                    <option value="ws63">WS63 - Friday - 11:00-13:00 - Nailfold Capilaroscopy</option>
+                    <option value="ws64">WS64 - Friday - 11:30-13:30 - Clinical Case: Rheumatology</option>
+                    <option value="ws65">WS65 - Friday - 11:30-13:30 - The importance of microscopy techniques in establishing the etiology of multiorgan fungal infections</option>
+                    <option value="ws66">WS66 - Friday - 12:00-14:00 - The larynx: anatomy applied in imaging and pathology</option>
+                    <option value="ws67">WS67 - Friday - 16:00-18:00 - Clinical Case: Endocrinology</option>
+                    <option value="ws68">WS68 - Friday - 16:00-18:00 - Clinical Case: Psychiatry</option>
+                    <option value="ws69">WS69 - Friday - 16:00-18:00 - Biochemistry</option>
+                    <option value="ws70">WS70 - Friday - 16:00-18:00 - Essential Microbiology Techniques</option>
+                    <option value="ws71">WS71 - Friday - 16:00-18:00 - Loss of consciousness during epileptic seizures</option>
+                    <option value="ws72">WS72 - Friday - 16:00-18:00 - How to read an X-ray</option>
+                    <option value="ws73">WS73 - Friday - 16:00-18:00 - My career options - Becoming the best doctor</option>
+                    <option value="ws74">WS74 - Friday - 16:00-18:00 - Handlink Ecography During Critical Situations</option>
+                    <option value="ws75">WS75 - Friday - 16:00-20:00 - Focused Assessment with Sonography for Trauma</option>
+                    <option value="ws76">WS76 - Friday - 16:00-20:00 - Paraclinical results assessment in a patient</option>
+                    <option value="ws77">WS77 - Friday - 16:00-20:00 - Clinical Case: Infectious Diseases</option>
+                    <option value="ws78">WS78 - Friday - 16:30-18:30 - Basic Ophtalmology Skills</option>
+                    <option value="ws79">WS79 - Friday - 18:00-20:00 - Clinical Case: Dermatology</option>
+                    <option value="ws80">WS80 - Friday - 18:00-20:00 - Clinical Case: Obstetrics and Gynecology</option>
+                    <option value="ws81">WS81 - Friday - 18:00-20:00 - Clinical Case: Pneumology</option>
+                    <option value="ws82">WS82 - Friday - 18:00-20:00 - Synaptic plasticity and memory in physiological conditions and neurodegenerative disorders: a multidisciplinary approach from bench to bedside</option>
+                    <option value="ws83">WS83 - Saturday - 08:30-11:00 - Basic Life Support</option>
+                    <option value="ws84">WS84 - Saturday - 09:00-11:00 - Clinical Case: ATI</option>
+                    <option value="ws85">WS85 - Saturday - 09:00-11:00 - Clinical Case: Neurology</option>
+                    <option value="ws86">WS86 - Saturday - 09:00-12:00 - Flow-Cytometry</option>
+                    <option value="ws87">WS87 - Saturday - 09:00-13:00 - Focused Assessment with Sonography for Trauma</option>
+                    <option value="ws88">WS88 - Saturday - 10:00-12:00 - Clinical Case: Oncology </option>
+                    <option value="ws89">WS89 - Saturday - 11:30-13:00 - Basic Life Support</option>
+                    <option value="ws90">WS90 - Saturday - 11:30-13:30 - Clinical Case: Cardiology (Endorsed by the Young Cardiologists' Club of the Romanian Society of Cardiology)</option>
+                    <option value="ws91">WS91 - Saturday - 11:30-13:30 - Clinical Case: General Surgery</option>
+                    <option value="ws92">WS92 - Saturday - 11:30-13:30 - Clinical Case: Nephrology</option>
+                    <option value="ws93">WS93 - Saturday - 11:30-13:30 - Mindfulness </option>
+                    <option value="ws94">WS94 - Saturday - 16:00-18:00 - Mindfulness </option>
+                    <option value="ws95">WS95 - Saturday - 16:00-18:00 - Basic Head MRI</option>
+                    <option value="ws96">WS96 - Saturday - 16:00-20:00 - Healthcare innovation for medical students</option>
+                    <option value="ws97">WS97 - Saturday - 18:00-20:00 - Clinical Case- Emergency</option>
+                </select>
+                <input type="submit" value="Tell me!" class="w3-button w3-blue">
+            </form>
+            <span id="response">Select your workshops</span>
+<!--
+            <div class="intro-links">
+                <span class="daytime-link spk-section-link w3-button w3-blue">Daytime Events</span>
+                <span class="nightlife-link spk-section-link w3-button w3-blue">Nightlife</span>
+                <span class="recommendations-link spk-section-link w3-button w3-blue">Recommendations</span>
+            </div>
+-->
+        </div>
+            
+    </div>
+    
+<!--
+    <div id="wrap">
+        <div id="ckr-wrap">
+            <form id="my-form" action="">
+                <select name="" id="opt1">
+                    <option value="ws1">ws1</option>
+                    <option value="ws2">ws2</option>
+                    <option value="ws3">ws3</option>
+                </select>
+                <select name="" id="opt2">
+                    <option value="ws1">ws1</option>
+                    <option value="ws2">ws2</option>
+                    <option value="ws3">ws3</option>
+                </select>
+                <input type="submit">
+            </form>
+            <span id="response">Select your workshops</span>
+        </div>
+    </div>
+-->
+    
+    <footer>
+        <div id="footer-wrap"> <!-- Here goes nav&footer.js --> </div>
+    </footer>
+
+</body>
+</html> 

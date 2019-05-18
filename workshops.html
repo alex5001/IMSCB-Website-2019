@@ -1,0 +1,123 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124189155-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-124189155-1');
+    </script>
+
+    <!--Some metadata-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Workshops</title>
+
+    <!--Load CSS files-->
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/import.css" rel="stylesheet" type="text/css">
+    <link href="css/workshops.css" rel="stylesheet" type="text/css">
+    
+    <!--Load JS STANDARD files-->
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    
+    <!--Load SIMPLEBAR files-->
+<!--
+    <link rel="stylesheet" href="https://unpkg.com/simplebar@latest/dist/simplebar.css" />
+    <script src="https://unpkg.com/simplebar@latest/dist/simplebar.js"></script>
+-->
+
+    <!--Load JS CUSTOM files-->
+    <script src="js/nav&footer.js"></script>
+    <script src="js/ws-sections.js"></script>
+    <script src="js/ws-details.js"></script>
+
+</head>
+<body>
+    
+    <header>
+        <div id="nav-wrap"><!-- Here goes nav&footer.js --></div>
+    </header>
+    
+    <div id="ws-showcase">
+        <img src="" alt="" class="absolute-cover" style="filter: blur(5px)">
+        <div id="sc-details-wrap">
+            <h1 id="sc-ws-title"></h1><br>
+            <h4 id="sc-ws-speaker"></h4><br>
+            <p id="sc-ws-description"></p><br>
+<!--            <span id="sc-ws-location"></span><br>-->
+            <div class="ws-sc-close btn">Close</div><br>
+<!--            <p>Dummy Paragraph</p>-->
+        </div>
+    </div>
+
+    <div id="workshops-sections" class="full-viewport">
+       
+<!--        <img src="img/workshops-intro.jpg" alt="" class="absolute-cover">-->
+        
+        <div class="intro-wrap">
+            <h1>Workshops</h1>
+            <p>Our workshops are divided into three main categories - Fundamental, Medical and Surgical Sciences, in our attempt to make it easier for you to choose what suits you best. Every IMSCB participant gets the chance to participate in two exquisite workshops. Make sure you take a look at the appropriate study years recommended for each event!</p>
+            <div class="intro-links">
+                <span class="ws-fundamentals-link ws-section-link btn">Fundamental Sciences</span>
+                <span class="ws-medicals-link ws-section-link btn">Medical Sciences</span>
+                <span class="ws-surgicals-link ws-section-link btn">Surgical Sciences</span>
+            </div>
+        </div>
+        
+    </div>
+    
+<!--
+    <div class="sticky-navigation">
+        
+        <span class="ws-fundamentals-link ws-section-link btn">Fundamental Sciences</span>
+        <span class="ws-medicals-link ws-section-link btn">Medical Sciences</span>
+        <span class="ws-surgicals-link ws-section-link btn">Surgical Sciences</span>
+        
+    </div>
+-->
+    
+    <div id="ws-content">
+        
+        <div id="fundamentals" class="ws-section">
+            <h1>Fundamental Sciences</h1>
+            <div class="ws-wrap">
+                <!-- Here goes ws-details.js -->
+<!--
+                <div class="ws">
+                    <img src="img/sample.jpg" alt="" class="ws-cover-thumbnail">
+                    <div class="ws-details">
+                        <span class="ws-title">Workshop Title</span>
+                        <span class="ws-details-link btn">Workshop Details</span>
+                    </div>
+                </div>
+-->
+            </div>
+        </div>
+        
+        <div id="medicals" class="ws-section">
+            <h1>Medical Sciences</h1>
+            <div class="ws-wrap">
+                <!-- Here goes ws-details.js -->
+            </div>
+        </div>
+        
+        <div id="surgicals" class="ws-section">
+            <h1>Surgical Sciences</h1>
+            <div class="ws-wrap">
+                <!-- Here goes ws-details.js -->
+            </div>
+        </div>
+        
+    </div>
+    
+    <footer>
+        <div id="footer-wrap"><!-- Here goes nav&footer.js --></div>
+    </footer>
+
+</body>
+</html> 
