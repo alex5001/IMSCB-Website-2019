@@ -14,7 +14,7 @@ p {
 }
 .plan-section {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   padding: 5vw 10vw;
 }
@@ -56,7 +56,7 @@ p {
   margin: .5em;
 }
 #active-passive-section {
-  background: url(../img/active-vs-passive-min.jpg);
+  background: url(../img/all-packages-min.JPG);
   background-size: cover;
 }
 #for-everyone {

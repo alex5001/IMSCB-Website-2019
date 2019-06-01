@@ -25,7 +25,7 @@ $(document).ready(function() {
         
         $("html, body").animate({
             scrollTop: target
-        }, 500);
+        }, 300);
     });
     
 });
