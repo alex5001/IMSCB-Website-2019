@@ -10,7 +10,7 @@
   align-items: center;
 }
 #social-sections .spk-section-link {
-  margin: .5em;
+  margin: 1.0em;
 }
 .ev-section {
   display: flex;
@@ -27,7 +27,9 @@
   display: flex;
   flex-direction: column;
   width: 100%;
+  height: auto;
   padding: 2vw;
+  background-size: 400px;
 }
 /***** Desktop *****/
 @media only screen and (min-width: 769px) {
