@@ -6,17 +6,18 @@ $(document).ready(function() {
     
     var wsData =  {
         "fundamentals" : [
-            {
+           {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Funfamental 1",
-                "description" : "description",
+                "title" : "Fundamental Sciences Workshops are to be announced",
+                "description" : "",
+                "speaker" : "",
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/als-min.jpg'
             },
-            {
+           /* {
                 "uid" : "",
                 "category" : "",
                 "years": "",
@@ -31,13 +32,14 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Fundamental 3",
-                "description" : "description",
-                "speaker" : "Speaker",
+                "title" : " ",
+                "description" : "",
+                "speaker" : "",
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/als-min.jpg'
-            }/*,
+            }   */
+            /*, 
             {
                 "uid" : "",
                 "category" : "",
@@ -49,25 +51,26 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/ws/sample.jpeg'
             }*/
-        ],
+        ]    ,
         "medicals": [
             {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Medical 1",
-                "description" : "description",
+                "title" : "Neonatal Advanced Life Support",
+                "description" : "Neonatology is an interesting specialty, but also overwhelming, considering the mixture of emotions that we, humans and doctors, might feel in different situations. Some of these are truly dramatic, and besides a good self-control of emotions, physicians also require excellent medical skills. This hands-on workshop is not addressed only to those passionate about the subject, but to all medical students, because no matter what their chosen specialty is, they can always find themselves in the situation of saving a life - especially one of a child. It’s an excellent opportunity to learn and apply the basic particularities of CPR for newborns, as well as making a comparison with its adult version. ",
+                "speaker" : "Lecturer Cătălin Cîrstoveanu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/als-min.jpg'
+                "imgsrc" : 'img/Neonatal Advanced Life Support.jpg'
             },
-            {
+           /* {
                 "uid" : "",
                 "category" : "",
                 "years": "",
                 "title" : "Medical 2",
                 "description" : "description",
-                "speaker" : "Speaker",
+                "speaker" : "speaker",
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/als-min.jpg'
@@ -82,7 +85,7 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/als-min.jpg'
-            }/*,
+            }  */ /*,
             {
                 "uid" : "",
                 "category" : "",
@@ -100,23 +103,25 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Surgical 1",
-                "description" : "description",
+                "title" : "Clinical Case:Paediatric Surgery",
+                "description" : "Have you ever wondered how Dr. House always seems to know what a patient has after just a few test results? This workshop will teach you which tests you need, which you don’t and also what treatment you need to administer to the patient. We all know that children are harder to diagnose than adults, the common challenges being  the variations in pathologies and often the low number of cases from which you can gain experience. The Paediatric Surgery Clinical Case workshop will be an excellent starting point for those who want to follow any kind of paediatric speciality in the future. The cases you will be asked to solve during the workshop will help you consolidate and broaden your knowledge about paediatric surgery, helping you discover a different approach. Hint: it’s never lupus.",
+                "speaker" : "Assoc.Prof. Radu-Iulian Spătaru",
+                
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/als-min.jpg'
+                "imgsrc" : 'img/Clinical Case Paediatric Surgery (1).jpg'
             },
             {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Surgical 2",
-                "description" : "description",
-                "speaker" : "Speaker",
+                "title" : "Mastering the surgical procedure of cleft lip and palate",
+                "description" : "Cleft lip and palate is the most common of the craniofacial anomalies. Children born with cleft lips and palates present various challenges throughout their development that need to be solved for successful habilitation. The complexity of these problems requires that numerous health care practitioners cooperate in providing the specialized knowledge and skills necessary to ensure comprehensive care, including timely surgery and speech therapy. At our workshop you will learn more about these complex patients and how to help them face any difficulties that may arise. You will find out more about this anomaly and also, you will enter in an OR to see the surgical approach.",
+                "speaker" : "Assoc.Prof. Radu-Iulian Spătaru",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/als-min.jpg'
-            },
+                "imgsrc" : 'img/Mastering the surgical procedure of cleft lip and palate (1).jpg'
+            } /*,
             {
                 "uid" : "",
                 "category" : "",
@@ -127,7 +132,7 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/als-min.jpg'
-            }/*,
+            }*/ /*,
             {
                 "uid" : "",
                 "category" : "",
