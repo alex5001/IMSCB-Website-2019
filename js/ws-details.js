@@ -10,9 +10,8 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Paraclinical Results Assessment",
-                "description" : "This workshop will teach you how to diagnose a patient using only laboratory test results and EKGs. It’s never easy, even for the most experienced physicians, to make a diagnosis based solely on paraclinical results, but it is of great importance for medical students to have a solid foundation in order to successfully direct the investigation. Our speaker will help you understand the meaning of test results and create your own diagnostic algorithm.",
-                "speaker" : "Assistant Lecturer Marius Cherciu, MD, PhD",
+                "title" : "Clinical Case:Paediatric Surgery",
+                "description" : "Have you ever wondered how Dr. House always seems to know what a patient has after just a few test results? This workshop will teach you which tests you need, which you don’t and also what treatment you need to administer to the patient. We all know that children are harder to diagnose than adults, the common challenges being  the variations in pathologies and often the low number of cases from which you can gain experience. The Paediatric Surgery Clinical Case workshop will be an excellent starting point for those who want to follow any kind of paediatric speciality in the future. The cases you will be asked to solve during the workshop will help you consolidate and broaden your knowledge about paediatric surgery, helping you discover a different approach. Hint: it’s never lupus.",
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws/paraclinic-min.jpg'
