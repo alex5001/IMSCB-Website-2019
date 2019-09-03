@@ -1,7 +1,7 @@
 $(document).ready(function() {
     
     $('.ws-section').hide();
-    $('.ws-section:eq(0)').show();
+    $('.ws-section:eq(1)').show();
     
     $('.ws-fundamentals-link').click(function(){
         $('.ws-section').hide();
