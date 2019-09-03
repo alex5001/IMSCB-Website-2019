@@ -103,13 +103,13 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Clinical Case:Paediatric Surgery",
+                "title" : "Clinical Case: Paediatric Surgery",
                 "description" : "Have you ever wondered how Dr. House always seems to know what a patient has after just a few test results? This workshop will teach you which tests you need, which you don’t and also what treatment you need to administer to the patient. We all know that children are harder to diagnose than adults, the common challenges being  the variations in pathologies and often the low number of cases from which you can gain experience. The Paediatric Surgery Clinical Case workshop will be an excellent starting point for those who want to follow any kind of paediatric speciality in the future. The cases you will be asked to solve during the workshop will help you consolidate and broaden your knowledge about paediatric surgery, helping you discover a different approach. Hint: it’s never lupus.",
                 "speaker" : "Assoc.Prof. Radu-Iulian Spătaru",
                 
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Clinical Case Paediatric Surgery (1).jpg'
+                "imgsrc" : 'img/ws/cs-paediatrics-min.jpg'
             },
             {
                 "uid" : "",
@@ -121,7 +121,41 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/Mastering the surgical procedure of cleft lip and palate (1).jpg'
-            } /*,
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Orthopaedics",
+                "description" : "Orthopaedics is the medical specialty that focuses on injuries and diseases of your body's musculoskeletal system.Including bones, joints, ligaments, muscles and nerves, it enables the active and passive movements that shape our everyday life. The workshop creates an interactive enviroment that will challenge your medical knowledge and communication skills resulting in an accurate diagnosis based on the information provided by a virtual patient.",
+                "speaker" : "",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws/cc-ortho-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Obstetrics and Gynaecology",
+                "description" : "Clinical Case: Obstetrics and Gynaecology Workshop is an interactive clinical workshop that proved itself as an effective learning tool. It is dedicated to students and young doctors that want to hone their skills in positive and differential diagnoses and therapeutic behavior using gripping, real-world clinical cases.",
+                "speaker" : "",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws/cc-obg-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: General Surgery",
+                "description" : "Clinical Cases sound easy, don’t they? When you’re faced with a patient and you only have a few test results, making a diagnosis is not that easy. Learn how to select the the most useful tests and familiarise yourself with the elected treatment. Broaden your knowledge and take the unique opportunity not only to test your ability to make the best decisions during an emergency, but also to make an accurate diagnosis. Discover the most valuable secrets of a surgeon during an interactive workshop that will enable you to come up with the best results.",
+                "speaker" : "",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws/cc-gen-surgery-min.jpg'
+            }
+            /*,
             {
                 "uid" : "",
                 "category" : "",
