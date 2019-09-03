@@ -62,7 +62,7 @@ $(document).ready(function() {
                 "speaker" : "Lecturer Cătălin Cîrstoveanu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Neonatal Advanced Life Support.jpg'
+                "imgsrc" : 'img/ws/nals2-min.jpg'
             },
            /* {
                 "uid" : "",
