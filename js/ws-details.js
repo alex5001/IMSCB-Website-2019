@@ -64,6 +64,72 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/ws/nals2-min.jpg'
             },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "3D printing: Multiple Technologies and how to use them for the benefit of the patient",
+                "description" : "3D printing is a modern technology that can be used to propel medicine in a new era, the era of personalized medicine. In this workshop we will talk about different 3D-printing technologies focusing on the advantages and disadvantages of using each one to create better 3D printed patient-specific models. We will also showcase some clinical cases where we used 3D printing and talk about how these models helped in patient treatment/ medical personnel education.",
+                "speaker" : "",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/3D printing- Multiple Technologies and how to use them for the benefit of the patient4.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "3D Printing: Applications in Medicine",
+                "description" : "3D printing is a modern technology that can be used to propel medicine in a new era, the era of personalized medicine. In this workshop you will learn how we obtain a patient-specific 3D printed model  starting from a CT exam. We will also talk about certain uses of these models in different pathologies.",
+                "speaker" : "",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/3D printing-Applications in Medicine2.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Airway 101",
+                "description" : "In the Emergency Medicine Service any protocol is structured by the ABC system. When it comes to the Cardiopulmonary Resuscitation, A stands for Airway. This workshop aims to prepare you for the airway management. You will not only learn about all the devices that ensure the procedures related to this procedure, but you will also aquire the medical knowledge needed to be prepared for the unexpected situations. Use this unique chance to discover the misteries behind the CPR and enhance your practic skills in a friendly enviroment, guided by a well-trained doctor.",
+                "speaker" : "Delia Andreea Crețu, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Airway 101.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "FAST (Focused Assessment with Sonography for Trauma)",
+                "description" : "The workshop aims to teach medical students the theoretical and practical aspects of the FAST exam. It requires basic anatomical knowledge and at the end of the session the students will accurately perform and interpret a FAST exam. The workshop is structured in two parts, a theoretical part highlighting the importance and use of the FAST exam in the trauma workup, and a practical part in which students perform 6-7 examinations under direct supervision and guidance.",
+                "speaker" : "Asst.Lect. Alexandru Constantin Carâp, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/FAST (Focused Assessment with Sonography for Trauma).jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Trauma Evaluation and Management for Medical Students",
+                "description" : "Trauma Evaluation and Management for Medical Students will teach you how to manage the multiple injured patients at the scene, in the first hours. It is very important for every medical student to have these skills, considering the fact that trauma is the most common cause of death worldwide",
+                "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Trauma Evaluation and Management for Medical Students.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Trauma Management",
+                "description" : "Trauma Management is a workshop in which you’ll be given an insight on how to deal with a trauma case, how to manage the stress of this specialty and how to make instant decisions in a critical situation. Being a hands-on workshop, you will be taught some procedures, such as endotracheal intubation, tracheostomy and chest intubation and you’ll also be guided, step by step, on how to do it yourselves.",
+                "speaker" : "Hani Al-Qadhi, MD, FRCSC",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Trauma Management.jpg'
+            },
            /* {
                 "uid" : "",
                 "category" : "",
