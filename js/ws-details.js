@@ -108,27 +108,28 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/WS BLA BLA/FAST (Focused Assessment with Sonography for Trauma).jpg'
             },
+       
             {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Trauma Evaluation and Management for Medical Students",
-                "description" : "Trauma Evaluation and Management for Medical Students will teach you how to manage the multiple injured patients at the scene, in the first hours. It is very important for every medical student to have these skills, considering the fact that trauma is the most common cause of death worldwide",
-                "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
+                "title" : " LIE TO ME-Deconstructing a lie",
+                "description" : "How do we detect a lie? Can we be able to realize when someone is lying? This workshop it is an excellent opportunity to find out how to deconstruct a lie and how to find out the truth!",
+                "speaker" : "Liana Kobilynska MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Trauma Evaluation and Management for Medical Students.jpg'
+                "imgsrc" : 'img/WS BLA BLA/LIE TO ME-deconstructing a lie.gif'
             },
             {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Trauma Management",
-                "description" : "Trauma Management is a workshop in which you’ll be given an insight on how to deal with a trauma case, how to manage the stress of this specialty and how to make instant decisions in a critical situation. Being a hands-on workshop, you will be taught some procedures, such as endotracheal intubation, tracheostomy and chest intubation and you’ll also be guided, step by step, on how to do it yourselves.",
-                "speaker" : "Hani Al-Qadhi, MD, FRCSC",
+                "title" : "Fear of the unknown - how do we justify bullying?",
+                "description" : "LGBT is an initialism used since 1990s that stands for lesbian, gay, bisexual, and transgender. As we all know LGBT people are targeted for bullying, assault, discrimination, all this contributing to depression and suicide in the adulthood. If you want to find out more about this sensitive subject, this workshop it is an excellent opportunity!",
+                "speaker" : "Liana Kobylinska MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Trauma Management.jpg'
+                "imgsrc" : 'img/WS BLA BLA/Fear of the unknown-how do we justify bullying.jpg'
             },
            /* {
                 "uid" : "",
@@ -219,8 +220,53 @@ $(document).ready(function() {
                 "speaker" : "",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/cc-gen-surgery-min.jpg'
-            }
+                "imgsrc" : 'img/WS BLA BLA/Clinical Case-General Surgery-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Basic Skills in Laparoscopy",
+                "description" : "We all know that a laparoscopy surgery is way easier for both, surgeon and patient. Because of that, this workshop is going to be the best way for a start in the laparoscopy surgery path. As a plus, we are going to organise three workshops instead of one in order to give as many of you as possible the chance to participate and explore this less invasive surgery technique.",
+                "speaker" : "X-Projects",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/basic skills laparoscopic surgery.jpeg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Basic Skills in Microsurgery",
+                "description" : "Because the world is always in a developing process, we are more than pleased to offer you three microsurgery workshops. Learning how to do knots and sutures on a hand, leg or any part of the body sounds easy, but can you do it on a leave or a rose petal? There is your chance to prove to yourself that you are made to become a surgeon and also your chance to make the first steps into this amazing part of the medicine.",
+                "speaker" : "X-Projects",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/basic skills microsurgery.jpeg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Trauma Evaluation and Management for Medical Students",
+                "description" : "Trauma Evaluation and Management for Medical Students will teach you how to manage the multiple injured patients at the scene, in the first hours. It is very important for every medical student to have these skills, considering the fact that trauma is the most common cause of death worldwide",
+                "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Trauma Evaluation and Management for Medical Students.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Trauma Management",
+                "description" : "Trauma Management is a workshop in which you’ll be given an insight on how to deal with a trauma case, how to manage the stress of this specialty and how to make instant decisions in a critical situation. Being a hands-on workshop, you will be taught some procedures, such as endotracheal intubation, tracheostomy and chest intubation and you’ll also be guided, step by step, on how to do it yourselves.",
+                "speaker" : "Hani Al-Qadhi, MD, FRCSC",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Trauma Management.jpg'
+            },
+         
             /*,
             {
                 "uid" : "",

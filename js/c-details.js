@@ -17,6 +17,17 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : "img/c/sciences-min.jpg"
             },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Mainting young the ageing brain",
+                "description" : "Neurodegenerative disease is an umbrella term for a range of conditions which primarily affect the neurons in the human brain, so the progressive loss of structure or function of neurons can lead to  amyotrophic lateral sclerosis, Parkinson's disease, Alzheimer's disease and other diseases. The purpose of the conference is to inform you about how to keep your brain young and how to slow down the neurodegeneration!",
+                "speaker" : "Liana Kobylinska, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/c/maintaining young the ageing brain.jpg'
+            }
             /*,
             {
                 "uid" : "",
