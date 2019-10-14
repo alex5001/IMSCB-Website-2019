@@ -36,6 +36,9 @@
 .spk-section .spk-wrap .spk h3 {
   text-align: center;
 }
+.spk-section .spk-wrap .spk .description {
+  padding: 1em;
+}
 /***** Desktop *****/
 @media only screen and (min-width: 769px) {
   .spk-wrap {
