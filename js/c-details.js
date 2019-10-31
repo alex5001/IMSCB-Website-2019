@@ -28,6 +28,40 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/c/maintaining young the ageing brain.jpg'
             }
+            ,
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Women in Interventional Radiology",
+                "description" : "Have you always been passionate about radiology, and you would love to persue such a career. However, as it there is always in life, there is  a but, you want to persue a career but also have a family and kids. Would the radiations you are exposed to harm you? Is it likely to get breast cancer if you pursue such a domain? Would it be harmful for a pregnancy to be exposed? Is technology so advanced? Dr. Protto Sara joins us from Helinski to help us answer there questions and let us know on her experience in interventional radiology! Attend this conference because you can, because you are a women and you can persue your dreams as well!",
+                "speaker" : "Sara Protto, MD, PhD, ETF deputy chairperson, Tampere University Hospital, Vascular and interventional radiology centre",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Women in interventional radiology-min1.png'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Shok-late.. a non-sweet way to death",
+                "description" : "Shock-late: the Unsweet way to death This interactive case based lecture will take us through the shock disease in trauma patients from diagnosis, managment and saving lives. Iis very important information for the anyone who is practicing Medicine and may see trauma cases",
+                "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Osama M Odat1.jpg'
+            }, {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The art and science behind a tattoo",
+                "description" : "The art of tattooing has suffered many controversial opinions along the years. Nowadays getting tattooed has become a common action among the new generations. However, this art is still condemned by a large part of the society,although its meaning, purpouses and advantages still remain a taboo subject, focusing only on its disadvantages, which may or may not be as told.  Our conference will approach this taboo subject from the point of view of a tattoo artist, and also from the point of view of a dermatologist, each talking about different aspects of this art.  Are tattoos a mistery for you as they are for us? Ever wondered how society responds to a tattooed healthcare professional? Buckle up, because this conference has the aim of bringing this mystery to light.",
+                "speaker" : "Cristian Cezar Brinzanescu ; Diana Savu MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/_Cristian Cezar Brinzanescu.jpg'
+            }
+           
             /*,
             {
                 "uid" : "",

@@ -130,6 +130,46 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/WS BLA BLA/Fear of the unknown-how do we justify bullying.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Mindfulness",
+                "description" : "Is your life too busy so you don’t have time to stop and stare? Has it been a long time since you felt truly happy? Do you feel like your life, your purpose and your wishes are in a blur and you can’t figure out what to do next? If the answer to these questions is yes then we welcome you to join us in this workshop and figure it out together.",
+                "speaker" : "Psych. Cristina Ciubotaru",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Mindfulness1.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case-Forensic Medicine",
+                "description" : "Forensics is the application of various scientific methods and principles to investigate criminal and civil actions which are of interest to the legal systems. All the clues collected from a crime scene are analyzed by forensic scientists in a crime laboratory and are converted into evidences worth producing in legal courts. This workshop is intended to be an important tool for learning and quality improvement in clinical practice. The cases that will be presented during this workshop are related to important aspects of forensic practice as sudden or unexpected death, cause of death in infancy or how to make difference between a homicide, a suicide or an accident.",
+                "speaker" : "Țurlea Ioana - Ruxandra",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Clinical Case-Forensic Medicine-min1.png'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Challenges for international travelers",
+                "description" : "Traveler's Medicine is an expanding multidisciplinary field all over the world and in Romania, targeting not only the prevention or treatment of tropical diseases but a set of pathologies that may occur or may be aggravated during the international travels. There are several types of travelers: tourists, business travelers, including mission soldiers, diplomats, humanitarian missions, and other categories, expatriates, emigrants, refugees, travelers for medical tourism. The risk of illness is different depending on the destination, age, reason for travel (tourists are more often sick than people traveling for professional purposes), journey time, experience, presence of concomitant diseases. The number of emigrants and refugees has also increased, and they might have special health problems.",
+                "speaker" : "Assoc. Prof. Hristea Adriana, MD, PhD ; Asst. Lect. Raluca Elena Jipa, MD, PhD ; Asst. Lect. Eliza Manea, MD, PhD ; Emanuel Condria, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Challenges for international travelers1  .jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Basic Autopsy Skills",
+                "description" : "If you are interested in this field, you will need to be strong in all areas of science. Forensic pathology draws on biology, physics, chemistry, even psychology and anthropology. The findings of an autopsy are often used for evaluating the accuracy of a clinical diagnosis, identifying any unsuspected conditions, and establishing a cause of death. Attendance to this workshop will give you the opportunity to understand the unique and complex phenomena that are related to each crime scene because every scene is anything but a controlled setting.",
+                "speaker" : "Țurlea Ioana - Ruxandra, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/Basic Autopsy Skills-min1.png'
             },
            /* {
                 "uid" : "",
