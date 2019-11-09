@@ -10,12 +10,90 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "Fundamental Sciences Workshops are to be announced",
-                "description" : "",
-                "speaker" : "",
+                "title" : "Anatomical-Imagistic Aspects of the Supratentorial Cerebral Structures",
+                "description" : "The supratentorial region is an anatomical region of the brain located above the tentorium cerebelli and contains the cerebral cortex, hippocampus, basal ganglia and olfactory bulb. We will discover all this by dissecting brain structures and we will learn about the basic anatomy of this area. In the end we will talk about imagistic applications of all the information have learnt and see how these can help us in the management of a patient.",
+                "speaker" : "Lect. Tarta Eugen, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/als-min.jpg'
+                "imgsrc" : 'img/ws2/Anatomical-Imagistic Aspects of the Supratentorial Cerebral Structures (1)BUN.jpeg'
+            },
+            
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Behind the signs and symptoms- Breast Pathology",
+                "description" : "Breast tumours and inflammatory diseases concerning this area have always been associated with imposing a great impact upon patients, both medically and socially. This workshop aims to teach the participants, using a hands-on approach, how to recognize and describe the pathology associated with the most common types of breast cancer and benign afflictions. ",
+                "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/Behind the signs and symptoms-Breast pathology-minBUN.jpg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Cell medicine ... Tests, truths and news ",
+                "description" : "Molecular Medicine represents a wide interdisciplinary field that provides insights and a knowledge forefront to the basic and fundamental mechanisms of cellular and tissular homeostasis, as well as to the disease pathogenesis. This particular workshop aims to bring light upon one of the most modern and disputable, minimally invasive methods of testing for biomarkers - the liquid biopsy. We will find out together about cancer cells from a tumor that are circulating in the blood, circulating tumor DNA (ctDNA), circulating miRNAs, tumor-derived extracellular vesicles (EVs) that are shed from primary tumors and their metastatic sites into the peripheral blood.",
+                "speaker" : " Assoc. Prof. Sanda Maria Crețoiu MD, PhD șAsst.Lect. Dragoș Crețoiu MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/Cell medicine ... Tests, truths and news -minBUN.jpeg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Chain reaction - biochemistry in medicine",
+                "description" : "In a friendly atmosphere you are going to have an insight of some of the most exciting experiments that have a very large applicability in medicine. Even though you are not a biochemistry fan you are going to enjoy it!",
+                "speaker" : "Assoc. Prof. Elena Laura Găman",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/Chain reaction - biochemistry in medicine-minBUN.jpg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Extracellular vesicles - exosomes and ectosomes ",
+                "description" : "Long- and short-distance communication can take multiple forms. Among them are exosomes and ectosomes, extracellular vesicles (EVs) released from the cell to deliver signals to different target cells. A very interesting workshop in which we will find out details about extracellular vesicles, what they are, how they can be determined, and what practical applications one might expect in the future.",
+                "speaker" : "Asst.Lect. Luciana Pavelescu MD, PhD ; Asst. Lect. Laura Caravia MD, PhD ",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/Extracellular vesicles - exosomes and ectosomes -minBUN.jpg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "First steps in cataract surgery",
+                "description" : "Cataract surgery is a procedure to remove the lens of your eye and, in most cases, replace it with an artificial lens. This workshop will allow participants to gain experience with  the  techniques of cataract surgery. The session  will provide practical experience in removing a cataractous lens from porcine eyes under  an operating microscope, detailed practical information and also theoretical notions in ophthalmology.",
+                "speaker" : "Asst.Lect. Emil Ungureanu MD, PhD ; Asst. Lect. Ștefan Oprea MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/First steps in cataract surgeryBUN .jpg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Heart Dissection ",
+                "description" : "The heart dissection is probably one of the most difficult dissections. Part of the reason why it is so difficult to learn it is that the heart is not perfectly symmetrical, but it is so close that it becomes difficult to discern which side you are looking at dorsal, ventral, left or right. This workshop will guide your way into discovering the anatomical structure of the symbol of life.",
+                "speaker" : "Lect. Cosmin Marian Panțu, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/Heart DissectionBUN.jpg'
+            },
+                 {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The perfect match - Introduction in immunohistochemistry",
+                "description" : "Are you passionate about pathology, or do you just want to see where everything starts from? It all begins with the tiniest unit, our cell. This workshop will take you on a journey to discover the steps for a perfect match in an immunohistochemistry investigation.",
+                "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/The Perfect MatchBUN.jpg'
             },
            /* {
                 "uid" : "",
@@ -170,6 +248,77 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/Basic Autopsy Skills-min1.png'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Cardiac ecography: a story about heart’s details",
+                "description" : "Since its very beginnings, echocardiography gained extraordinary ground in the medical world, becoming a golden standard in the diagnosis of a great many cardiac pathologies. A completely noninvasive technique, is the most frequently used diagnostic method. This workshop will teach you the basics of echocardiography, a procedure which you will most likely use numerous times in your medical career.",
+                "speaker" : "Speaker: Lect. Alexandru Scafa-Udriste, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Cardiac ecography_ a story about hearts details-minBUN.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical case-Psychiatry ",
+                "description" : "Clinical cases may sound easy but what are you doing when you face a patient that does not know how to describe his symptoms? You are going to witness small plays and then you have to make a diagnosis based on what you saw and some test results. This workshop will teach you how to approach patients with various diseases by showing you how these patients behave!",
+                "speaker" : "Asst.Lect. Vlad Dionisie MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Clinical Case-PsychiatryBUN.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": " years 1-3, Participats: 15-21 ",
+                "title" : "Diagnostic: myth or disease? ",
+                "description" : "Learn how to quickly identify and select a medical issue from a medical myth. Discover the tools needed to assess all the data available and learn how to process it in order to become a true Medical-mythbuster! ",
+                "speaker" : "Speaker: Cosmin-Viorel Bogu, 5th year student",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Diagnostic- myth or diseases_-minBUN.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Handling ultrasound during critical situations",
+                "description" : "This workshop will teach you how to react properly in emergency situations. You are going to learn how to withstand the pressure of a wounded patient and how to set a diagnosis based on the information given by the ultrasound scans you are required to read and observe.",
+                "speaker" : "Asst. Lect. Carmen Cristescu Md Phd",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/HAndling ultrasound during critical situations-minBUN.png'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "How to read an X-ray",
+                "description" : "In this workshop you will learn how to interpret an X-ray from A to Z, step-by-step, for any part of the body.",
+                "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/How to read an X-rayBUN.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Solving the abdominal labyrinth",
+                "description" : "This hands-on abdominal ultrasound workshop aims to build a complete ultrasound protocol and to analyse all images, encouraging discussions and a practical approach. Participants will be able to guide themselves in 3D anatomy with 2D imaging and document each organ in the abdomen.",
+                "speaker" : "Lecturer Alice Bălăceanu, MD PhD  ",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Solving the abdominal labyrinth-minBUN.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The challenges of treating sports injuries - clinical cases",
+                "description" : "",
+                "speaker" : "Andrei Vișoianu, MD ; Alina Smaranda, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/The challengies of treating sports injuries - clinical casesBUN.jpg'
             },
            /* {
                 "uid" : "",
