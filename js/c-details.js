@@ -61,6 +61,29 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/_Cristian Cezar Brinzanescu.jpg'
             }
+            ,
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Mistakes we make as parents",
+                "description" : "This talk will draw on Dr Qureshi's expertise in Paediatrics, and look at the history of vaccines, how they work, and how to approach the consultation about vaccine consent. It will unpick the anti-Vaxx movement, including what we need to know in order to address parental concerns.",
+                "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/c/Mistakes we make as parents-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Trauma in geriatric patients- between risks and healing",
+                "description" : "",
+                "speaker" : "Hani Al-Qadhi, MD, FRCSC ;Sultan Qaboos University Hospital",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/c/Trauma in geriatric patients- between risks and healing-min.jpeg'
+            }
            
             /*,
             {

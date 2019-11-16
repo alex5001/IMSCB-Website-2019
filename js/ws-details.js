@@ -94,6 +94,38 @@ $(document).ready(function() {
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws2/The Perfect MatchBUN.jpg'
+                     
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Essential Microbiology Techniques",
+                "description" : "In our medical practice, we will always be faced with all types of cases, each of them different from the other. Nowadays, laboratory medicine seems less and less important in the eyes of medical students and that is why our goal is to make you see its importance. The Essential Microbiology Techniques workshop will show you how a microbiologist works in order to determine a diagnosis that will help the clinician establish the best treatment.",
+                "speaker" : "Prof. Mircea Ioan Popa, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Essential Microbiology Techniques.png'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "New Generation Sequencing - Applications in Biomedical Research",
+                "description" : "Gene manipulation is one of the main fields that geneticists nowadays explore in the hope that humanity could cure frequent severe diseases that affect most people within their lifetimes. But how did it all start? How could someone detain as much specific DNA as needed in order to perform the necessary tests? PCR (Polymerase Chain Reaction) is the main technology that is used in order to make numerous copies of the DNA sequences that are prone to be analysed. In this workshop, you will be trained in the basics of PCR and at the same time you will have the chance of a hands-on experience to multiply DNA strings in the same laboratories that geneticists use on a daily basis.",
+                "speaker" : "Biol. Dumitru Jardan, PhD ; Biol. Mihaela Dragomir ; Asst. Lect. Andra Grigore, MD, PhD ; Prof. Daniel Coriu, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/New Generation Sequencing - Applications in Biomedical Research.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Vomeronasal Organ - Atavisms of Our Ancestral Social Instinct",
+                "description" : "The research is aimed on the highly debated vomeronasal organ, concluding its presence in human embryos with various ages. Detailed morphohistological aspects are approached along with development, comparison to other species and its possible implications in social behaviour both in humans and animals.",
+                "speaker" : "Stud. Andrei Precup, Stud. Mihai-Alin Publik",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/WS BLA BLA/Vomeronasal Organ.jpg'
             },
            /* {
                 "uid" : "",
