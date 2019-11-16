@@ -346,12 +346,213 @@ $(document).ready(function() {
                 "category" : "",
                 "years": "",
                 "title" : "The challenges of treating sports injuries - clinical cases",
-                "description" : "",
+                "description" : "Participation in sports has well-known health and wellness benefits. Unfortunately, it is also associated with a risk of injury. Sporting injury can occur during either competition or training. Typically, athletes aim to return to play as soon as possible and at the pre-injury level, which means that the management should be optimized to combine the need for prompt return to sport and the biologic healing time of the musculo-skeletal system. The focus of the workshop will be on acute injuries and their management. Through a series of case presentations, the workshop highlights common emergencies that a sports physician might confront, covering the rationale behind treatment choices and the medical management at sporting events and out in the field.",
                 "speaker" : "Andrei Vișoianu, MD ; Alina Smaranda, MD",
                 "location" : "",
                 "time" : "",
                 "imgsrc" : 'img/ws3/The challengies of treating sports injuries - clinical casesBUN.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Cardiac Pacemakers. How do we keep the heart beating when the sinus node and/or AV node fail?",
+                "description" : "Cardiac Pacemakers reflect modern treatments in medicine beyond medication, since the newly developed technology in the medical field began to integrate, with maximum efficiency and immediate and sustained long-term results. This workshop will be divided in two parts, a theoretical presentation in which cardiac electrical deficiencies will be explained and also an interactive part in which a series of clinical cases will be discussed.",
+                "speaker" : "Mohamed Dardari, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Cardiac PAcemakers-min.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Between Ups and Downs on an ECG",
+                "description" : "No matter what your specialty will be, as a doctor you must know how to interpret an ECG. We are here to help you broaden your medical knowledge and this workshop is the best way not only to practice what you have already learned, but also to make the first steps into understanding the complexity of an ECG.",
+                "speaker" : "Corneliu Iorgulescu, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Between Ups and Downs on an ECG (1)-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Bedside manners: Kids vs. Adults",
+                "description" : "This workshop will teach you how to engage what you need to know about children and to understand how to interact with them. How are they different? And how does this affect the doctor-patient relationship? These skills are the very foundation of not only being a children's doctor, but also of anyone who might work with children in the future.",
+                "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Bedside Manner - Kids vs Adults-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Basic Clinical Techniques",
+                "description" : "The workshop lasts approximately 6 hours and includes the following techniques/maneuvers : Breast palpation, Rectal examination, Vaginal Examination, Urinary Catheterization in male and female patients, Vital Signs Monitor, Orotracheal Intubation, Mask Ventilation, Nasogastric Intubation, Peripheral Venous Catheterization & Blood Drainage. As participants, you shall attend a training station, in teams of 3-4 individuals, where you will be instructed and allowed to perform the maneuver on high fidelity simulators.",
+                "speaker" : "Lifesim",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/Basic Clinical Techniques-min.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Eco 101",
+                "description" : "As students, our first encounter with an ultrasound is, in most cases, terrifying. We think to ourselves “Will I ever manage to understand any of this?”. This workshop aims to talk you through the basics of performing and reading an ultrasound, explaining everything you need to know about identifying physiological and pathological structures, as well as interpreting your findings.",
+                "speaker" : "Theodor Badea, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/A simple way to understand ecography-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Cardiology",
+                "description" : "We invite you to participate in the Clinical Case - Cardiology workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience",
+                "speaker" : "Asst. Lect. Alexandru George Cotoban, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/1Clinical Case-Cardiology (1)-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Oncology",
+                "description" : "The Oncology Clinical Case workshop will be an excellent experience for those who want to follow this specialty in the future. Even though clinical cases may sound easy, when you’re facing a patient and you only have a few test results at your disposal, concluding upon a clear diagnosis is not that simple. You will be asked to solve different types of cases that will help you broaden your medical knowledge.",
+                "speaker" : " Christos Tsagkaris",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/1Clinical Case Oncology-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Neurology",
+                "description" : "We invite you to participate in the Clinical Case - Neurology workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience.",
+                "speaker" : "Delia Tublă, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/1Clinical Case - Neurology-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case - Infectious Diseases",
+                "description" : "Problem-solving based learning is a useful and powerful tool, helping students develop analytical skills and to move from recalling the knowledge to analysis, evaluation and application. With this idea in mind, we propose an Infectious Diseases clinical-cases based workshop. The students participating in this workshop will be divided into four work groups. They will be presented with the same three virtual cases, one of them being used as an example. Each team will have to identify the diagnosis and perform the procedures required for the correct management of the patient’s conditions. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience.",
+                "speaker" : " Lect. Liana Gavriliu, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/1Clinical Case - Infectious Diseases-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Central Venous Catheterization - Theory & Practice",
+                "description" : "What if you are in the ER and your patient is crashing? What if you really need to administer intravenous medication and there is no i.v. line available? Learn how to quickly set a central venous catheter into place, the DOs and DON'Ts of the procedure and try it yourself on a realistic simulator!",
+                "speaker" : "Doru Cristian Hociotă, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/1Central Venous Catheterization (1)-min.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Ebola: the story of an outbreak",
+                "description" : "With this workshop we offer you the opportunity to see a real laboratory, ultimate technology,  equipment and costumes.  You will have the chance to learn how to get dressed with a complete protective equipment while experiencing a virtual EBOLA exercice.",
+                "speaker" : "Prof. Adrian Streinu-Cercel, MD, PhD ; Assoc. Prof. Anca Streinu-Cercel, MD, PhD ",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/2Ebola_ the story of an outbreak-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Gastroenterology",
+                "description" : "This interactive clinical workshop is dedicated to students and young doctors who want to hone their skills in positive and differential diagnoses and therapeutic behavior using gripping, real-world clinical cases. The workshop encourages the active involvement of participants in the learning process.",
+                "speaker" : "Asst. Lect. Mihai Ciocîrlan, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/2clinical case gastroenterology-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Endocrinology",
+                "description" : "Did you ever think about choosing endocrinology as your specialty? We want to help you decide if you are made for it. Let's explore the beauty of endocrinology together, from the most simple to the most complex diagnoses.",
+                "speaker" : "Asst. Lect. Simona Găloiu, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/2Clinical Case Endocrinology -min (1).jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Pneumology",
+                "description" : "We invite you to participate in the Clinical Case-Pneumology workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience.",
+                "speaker" : "Dragoș Bumbăcea, MD, PhSD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/2Clinical Case-Pneumology-min.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case: Emergency Medicine",
+                "description" : "We invite you to participate in the Clinical Case - Emergency Medicine workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience.",
+                "speaker" : "Asst. Lect. Carmen Cristescu, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/2clinical case-emergency-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The fear of being fearless - Confronting Anxiety",
+                "description" : "I can’t do this. Everything is out of my control. I will fail. There is no way I can pull this off.  If you’ve ever had a feeling of nervousness about something uncertain, a feeling that you’re not in control of your own life and there is nothing you can do about it, you may be dealing with anxiety. Anxiety is a normal, and often healthy emotion. However, when a person regularly feels disproportionate levels of anxiety, it might become a medical disorder. But you mustn’t live a life full of unease, you do have a choice. This workshop will provide you with the right tools necessary to change the way you think, transforming your anxiety into motivation and at the end of it, you will be the one that’s setting the course of your life, instead of fears and second thoughts.",
+                "speaker" : "Delia Popa",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/11The fear of being fearless-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The European Code Against Cancer: Towards a Europe free of Cancer",
+                "description" : "Description: Cancer is a leading morbidity and mortality factor globally. Communication of scientific knowledge to the public, civil society engagement and advocacy can play a crucial role in cancer's prevention and management. The European Code Against Cancer (ECAC)  is an initiative of the European Commission, developed by the World Health Organization. The Code consists of 12 key points, whose implementation may lead to a Europe Free of Cancer. The Association of European Cancer Leagues (ECL) and its Youth Ambassadors (YAs) are actively involved in spreading the word about the ECAC and enhancing cancer's prevention and treatment all over the European Union. The purpose of this interactive session is to give insights concerning the engagement of young people and particularly health science students and young professionals in this vision.",
+                "speaker" : "Christos Tsagkaris",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/11the european code against cancer-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "The Athletes' heart - basic principles of ECG",
+                "description" : "Increasingly we are recognizing the complexity of the athletes’ heart and the effects that exercise has on cardiac physiology. Sports Cardiology is an advancing field that encompasses the care of athletes and active individuals with known or previously undiagnosed cardiovascular conditions. The purpose of the workshop is two-fold. Firstly, it is to review the information related to the basic cardiac anatomy and physiology, followed by a systematic approach on how to interpret a 12 lead ECG and an introduction of the main electrocardiographic findings related to the “athlete's heart”. Secondly, based on the information presented, participants will be asked to untangle a series of multiple case-presentations in order to differentiate physiological changes from pathology on ECG.",
+                "speaker" : "Lect. Adela Caramoci, MD, PhD ; Alina Maria Smaranda, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/11The Atheletes Heart-min.jpg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "LARYNGEAL ULTRASOUND – FROM ANATOMY TO CLINICAL PRACTICE – HANDS ON WORKSHOP",
+                "description" : "During this workshop, we will apply the knowledge of laryngeal anatomy during ultrasound imaging. In the first 30 minutes, we will review the important laryngeal landmarks and the examination protocol using handheld portable Philips Ultrasound Machines. Laryngeal ultrasound permits visualizing such pathology as: laryngeal trauma, acute edema, vocal folds polyps and tumors. Afterwards all the participants enlisted to this workshop will have the chance to perform the same examination on colleagues and patients. This workshop will be fruitful for medical students, regardless of their preference in their future specialty",
+                "speaker" : "Asst. Lect. Mihai Dumitru MD, PhD, ENT Specialist, Bucharest University Emergency Hospital",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/11Laryngeal Ultrasound-min.jpeg'
+            },{
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Heavy Metals Intoxications",
+                "description" : "Just an intoxication? Maybe not. Heavy metals intoxications have recently become common. In a matter of minutes, a patient could be either saved, or doomed, based on the first steps his doctor makes towards a diagnosis. This event will teach you how to recognize, diagnose and treat such a situation in an interactive and easy manner, making sure that you will always remember the steps.",
+                "speaker" : "Speaker: Lect. Radu Ciprian Tincu, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/11Heavy Metals Intoxications (1)-min.jpeg'
             },
+            
            /* {
                 "uid" : "",
                 "category" : "",
@@ -487,7 +688,150 @@ $(document).ready(function() {
                 "time" : "",
                 "imgsrc" : 'img/WS BLA BLA/Trauma Management.jpg'
             },
-         
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Urology: Acquiring new skills in minimal invasive surgery",
+                "description" : "”I will not cut, even for the stone, but I will leave such procedures to the practitioners of that craft.” (The Hippocratic Oath) Have you ever wondered what kind of procedures Hippocrates was thinking about? What has changed since then? Nephrolithiasis is one of the most common pathologies in urology. It is defined as being one complex puzzle because it represents a systemic condition. So, what is the most effective treatment? How do we approach this kind of affliction? This workshop aims to provide a comprehensive review of all major issues regarding pathophysiological, diagnostic and therapeutic aspects of such a challenging topic. It will help you consolidate and broaden your knowledge about urology, also guiding you through a frequent disease that all doctors should understand so that they can build an adequate clinical picture.",
+                "speaker" : " Victor Cauni, MD, PhD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/0urology - acquiring new skills in minimal invasive surgery-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Treating the brain with 3D technology",
+                "description" : "Neurosurgery represents a surgical specialty that provides treatment and care for adult and paediatric patients in case of pathological processes that may modify the neural activity in multiple sites of the nervous system or the physiological function of its supporting structures. 3-dimensional neuroimaging provides the best means to describe these conditions and find the proper surgical approach. In this workshop you will get in touch with the basic neurosurgical anatomy and the associated pathology using 3-D neuroimaging, also reviewing the clinical aspects related to the subject and the surgical protocol in certain medical situations.",
+                "speaker" : "Sebastian Pavel, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/0Treating the brain with 3D technology-min.jpeg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Dare to create beauty - Introduction to HA filling",
+                "description" : "In the old Romanian fairy tales, a phrase is quite common: 'Youth without Old Age and Life without Death' Are you curious to find out the secrets of eternal youth? Come, discover and practice one of the most famous aesthetic interventions: Hyaluronic Acid filling.",
+                "speaker" : "Ali Efati, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/0Dare to create beauty-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Clinical Case - Thoracic Surgery",
+                "description" : "We've all had an opportunity to do a jigsaw puzzle in our childhood. A fun and simple game, in which you have to assemble the pieces following the model on the box. But is it just as simple if you cannot see the final picture? Or if you cannot be sure that all the pieces are in the box? Is the satisfaction of solving the puzzle greater when you uncover the right pieces? Does the stake grow when a man's life depends on you solving  the puzzle? We invite you to participate in the Clinical Case: Thoracic Surgery workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you.",
+                "speaker" : "Prof. Ioan Cordoș, MD, PhD ; Mihnea George Orghidan, MD ; Asia Ashoor, MD ; Ana Adelina Afetelor, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/0Clinical Case - Thoracic Surgery-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "Cochlear implant - a new concept in hearing loss treatment",
+                "description" : "Congenital hearing loss is one of the most prevalent chronic conditions in children. In the majority of developed countries, neonatal hearing screening programmes enable early detection, which is essential to achieving the best outcomes. Severe to profound bilateral hearing loss can be managed by cochlear implantation, if picked up at an early age. This workshop aims to present the most common causes of pediatric hearing loss, their character and presentation diagnosis and therapeutic approaches of a deaf child.",
+                "speaker" : "Speaker: Lect. Adriana Neagoș, MD",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws3/0cochlear implant-min.jpg'
+            }
+         ,
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS Asepsis and Antisepsis",
+                "description" : "This workshop will teach you the basics any surgeon must know from entering the OR to performing the first incision. You will be able to learn the principles of asepsis and antisepsis, practice how to properly wash your hands and put your surgical gown on, as well as understand what the proper attitude while being in the OR is.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Asepsis-and-Antisepsis-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS Casts and Splints",
+                "description" : "This workshop focuses on the management and treatment of bone fractures. You will be instructed on the theoretical aspects of limb fractures and the most important types of casts and splints for their respective treatment. You will then be able to practice proper placement of different types of casts and splints for a variety of orthopaedic pathologies.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Casts-and-Splints-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS Knots & Sutures",
+                "description" : "RSSS's Knots & Sutures, an already classic surgical workshop, is great for beginners! If you know nothing about surgery, this is where you should start. You will become familiar with the main surgical instruments, learn how to manage a surgical wound and practice elementary surgical procedures such as knots, incisions and several types of sutures. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-KS_1-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS mini Skills in Bowel Surgery",
+                "description" : "This workshop will present the key principles behind bowel surgery. You will become familiar with Roux-en-Y reconstructions, appendectomy, bariatric surgery, colon surgery and intestinal anastomoses and you will even perform some of them. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Intestinal_1-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS mini Skills in Hepato-Biliary Surgery",
+                "description" : "This workshop will present the key principles behind hepatic surgery. You will become familiar with the main surgical instruments, learn the surgical approach of the liver and hepatic hilum, its anatomy, imaging techniques and how to perform a cholecystectomy and a liver resection. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Hepatobiliar-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS mini Skills in Plastic and Reconstructive Surgery",
+                "description" : "This workshop will teach you the skills to perform some of the most frequent procedures in plastic surgery, with a focus on skin reconstruction. You will become familiar with the specific surgical instruments used in plastic surgery, learn how to manage a surgical wound and how to make a skin flap and graft to cover skin defects. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Plastic-min.jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS mini Skills in Thoracic Surgery",
+                "description" : "This workshop has the purpose to present the main techniques and materials for realising a proper tracheostomy and different types of pulmonary resections and sutures. During the practical part of the workshop, the participants will learn how to correctly insert a tube into an obstructed windpipe and how to properly perform pulmonary resections and sutures on biological material.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Thoracic-min (1).jpg'
+            },
+            {
+                "uid" : "",
+                "category" : "",
+                "years": "",
+                "title" : "RSSS mini Skills in Vascular Surgery",
+                "description" : "This workshop will present the key principles behind vascular surgery. You will become familiar with the special instruments used in vascular surgery, learn how to make an arteriotomy, arteriorrhaphy and angioplasty, perform vascular anastomoses and study the main indications for vascular surgery. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
+                "speaker" : "RSSS",
+                "location" : "",
+                "time" : "",
+                "imgsrc" : 'img/ws2/0RSSS-Vascular-min.jpg'
+            }
             /*,
             {
                 "uid" : "",
