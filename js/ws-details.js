@@ -249,7 +249,7 @@ $(document).ready(function() {
                 "speaker" : "Psych. Cristina Ciubotaru",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/plasticity-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -269,7 +269,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Hristea Adriana, MD, PhD ; Asst. Lect. Raluca Elena Jipa, MD, PhD ; Asst. Lect. Eliza Manea, MD, PhD ; Emanuel Condria, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/travelmed.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -279,7 +279,7 @@ $(document).ready(function() {
                 "speaker" : "Țurlea Ioana - Ruxandra, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Basic Autopsy Skills-min1.jpg'
+                "imgsrc" : 'img/ws/autopsy.jpg'
             },
             {
                 "uid" : "",
@@ -290,7 +290,7 @@ $(document).ready(function() {
                 "speaker" : "Speaker: Lect. Alexandru Scafa-Udriste, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/cardiacecho-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -310,7 +310,7 @@ $(document).ready(function() {
                 "speaker" : "Speaker: Cosmin-Viorel Bogu, 5th year student",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/myth.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -340,7 +340,7 @@ $(document).ready(function() {
                 "speaker" : "Lecturer Alice Bălăceanu, MD PhD  ",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Solving the abdominal labyrinth-minBUN.jpg'
+                "imgsrc" : 'img/ws/abd-labyrinth.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -350,7 +350,7 @@ $(document).ready(function() {
                 "speaker" : "Andrei Vișoianu, MD ; Alina Smaranda, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws3/The challengies of treating sports injuries - clinical casesBUN.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -360,7 +360,7 @@ $(document).ready(function() {
                 "speaker" : "Mohamed Dardari, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Cardiac PAcemakers-min.jpeg'
+                "imgsrc" : 'img/ws3/Cardiac PAcemakers.jpeg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -380,7 +380,7 @@ $(document).ready(function() {
                 "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/bedside-manner-min.jpg'
+                "imgsrc" : 'img/ws/bedside-manner.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -390,7 +390,7 @@ $(document).ready(function() {
                 "speaker" : "Lifesim",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/bct-lifesim-min.jpg'
+                "imgsrc" : 'img/ws3/Basic Clinical Techniques-min.jpeg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -400,7 +400,7 @@ $(document).ready(function() {
                 "speaker" : "Theodor Badea, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/A simple way to understand ecography-min.jpg'
+                "imgsrc" : 'img/ws/understand-eco.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -410,7 +410,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Alexandru George Cotoban, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/1Clinical Case-Cardiology (1)-min.jpg'
+                "imgsrc" : 'img/ws/cccardio-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -420,7 +420,7 @@ $(document).ready(function() {
                 "speaker" : " Christos Tsagkaris",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/1Clinical Case Oncology-min.jpg'
+                "imgsrc" : 'img/ws/onco.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -430,7 +430,7 @@ $(document).ready(function() {
                 "speaker" : "Delia Tublă, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/1Clinical Case - Neurology-min.jpg'
+                "imgsrc" : 'img/ws/ccneuro-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -440,7 +440,7 @@ $(document).ready(function() {
                 "speaker" : " Lect. Liana Gavriliu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/1Clinical Case - Infectious Diseases-min.jpg'
+                "imgsrc" : 'img/ws/ccinfectioase-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -450,7 +450,7 @@ $(document).ready(function() {
                 "speaker" : "Doru Cristian Hociotă, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/1Central Venous Catheterization (1)-min.jpeg'
+                "imgsrc" : 'img/ws/cateter-venos-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -470,7 +470,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Mihai Ciocîrlan, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/2clinical case gastroenterology-min.jpg'
+                "imgsrc" : 'img/ws/cc-gastro-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -480,7 +480,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Simona Găloiu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/2Clinical Case Endocrinology -min (1).jpg'
+                "imgsrc" : 'img/ws/cc-endo-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -490,7 +490,7 @@ $(document).ready(function() {
                 "speaker" : "Dragoș Bumbăcea, MD, PhSD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/2Clinical Case-Pneumology-min.jpeg'
+                "imgsrc" : 'img/ws/ccpneumo-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -500,7 +500,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Carmen Cristescu, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/2clinical case-emergency-min.jpg'
+                "imgsrc" : 'img/ws/cc-emergency-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -510,7 +510,7 @@ $(document).ready(function() {
                 "speaker" : "Delia Popa",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/11The fear of being fearless-min.jpg'
+                "imgsrc" : 'img/ws/anxiety.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -520,7 +520,7 @@ $(document).ready(function() {
                 "speaker" : "Christos Tsagkaris",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/11the european code against cancer-min.jpg'
+                "imgsrc" : 'img/ws/euro-code.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -535,7 +535,7 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "",
                 "years": "",
-                "title" : "LARYNGEAL ULTRASOUND – FROM ANATOMY TO CLINICAL PRACTICE – HANDS ON WORKSHOP",
+                "title" : "Laryngeal Ultrasound – From Anatomy To Clinical Practice",
                 "description" : "During this workshop, we will apply the knowledge of laryngeal anatomy during ultrasound imaging. In the first 30 minutes, we will review the important laryngeal landmarks and the examination protocol using handheld portable Philips Ultrasound Machines. Laryngeal ultrasound permits visualizing such pathology as: laryngeal trauma, acute edema, vocal folds polyps and tumors. Afterwards all the participants enlisted to this workshop will have the chance to perform the same examination on colleagues and patients. This workshop will be fruitful for medical students, regardless of their preference in their future specialty",
                 "speaker" : "Asst. Lect. Mihai Dumitru MD, PhD, ENT Specialist, Bucharest University Emergency Hospital",
                 "location" : "",
@@ -598,7 +598,7 @@ $(document).ready(function() {
                 
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/cs-paediatrics-min.jpg'
+                "imgsrc" : 'img/ws/ccpedi-min.jpg'
             },
             {
                 "uid" : "",
@@ -620,7 +620,7 @@ $(document).ready(function() {
                 "speaker" : "",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/cc-ortho-min.jpg'
+                "imgsrc" : 'img/ws/ccortho-min.jpg'
             },
             {
                 "uid" : "",
@@ -642,7 +642,7 @@ $(document).ready(function() {
                 "speaker" : "",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Clinical Case-General Surgery-min.jpg'
+                "imgsrc" : 'img/ws/ccgenerala-min.jpg'
             },
             {
                 "uid" : "",
@@ -653,7 +653,7 @@ $(document).ready(function() {
                 "speaker" : "X-Projects",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/basic skills laparoscopic surgery.jpeg'
+                "imgsrc" : 'img/ws/laparosurgery-min.jpg'
             },
             {
                 "uid" : "",
@@ -664,7 +664,7 @@ $(document).ready(function() {
                 "speaker" : "X-Projects",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/basic skills microsurgery.jpeg'
+                "imgsrc" : 'img/ws/basicmicro.jpg'
             },
                  {
                 "uid" : "",
@@ -675,7 +675,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Trauma Evaluation and Management for Medical Students.jpg'
+                "imgsrc" : 'img/ws/team.jpg'
             },
             {
                 "uid" : "",
@@ -686,7 +686,7 @@ $(document).ready(function() {
                 "speaker" : "Hani Al-Qadhi, MD, FRCSC",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Trauma Management.jpg'
+                "imgsrc" : 'img/ws/trauma-maang.jpg'
             },
             {
                 "uid" : "",
@@ -741,7 +741,7 @@ $(document).ready(function() {
                 "speaker" : "Speaker: Lect. Adriana Neagoș, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/0cochlear implant-min.jpg'
+                "imgsrc" : 'img/ws/cohlear-min.jpg'
             }
          ,
             {
