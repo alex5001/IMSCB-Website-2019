@@ -15,7 +15,7 @@ $(document).ready(function() {
                 "speaker" : "Lect. Tarta Eugen, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Anatomical-Imagistic Aspects of the Supratentorial Cerebral Structures (1)BUN.jpeg'
+                "imgsrc" : "../img/"
             },
             
                  {
@@ -27,7 +27,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Behind the signs and symptoms-Breast pathology-minBUN.jpg'
+                "imgsrc" : 'img/ws/'
             },
                  {
                 "uid" : "",
@@ -38,7 +38,7 @@ $(document).ready(function() {
                 "speaker" : " Assoc. Prof. Sanda Maria Crețoiu MD, PhD șAsst.Lect. Dragoș Crețoiu MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Cell medicine ... Tests, truths and news -minBUN.jpeg'
+                "imgsrc" : 'img/ws/cell-med-min.jpg'
             },
                  {
                 "uid" : "",
@@ -49,7 +49,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Elena Laura Găman",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Chain reaction - biochemistry in medicine-minBUN.jpg'
+                "imgsrc" : 'img/ws/bioch-min.jpg'
             },
                  {
                 "uid" : "",
@@ -60,7 +60,7 @@ $(document).ready(function() {
                 "speaker" : "Asst.Lect. Luciana Pavelescu MD, PhD ; Asst. Lect. Laura Caravia MD, PhD ",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Extracellular vesicles - exosomes and ectosomes -minBUN.jpg'
+                "imgsrc" : 'img/ws/exosomes-min.jpg'
             },
                  {
                 "uid" : "",
@@ -71,7 +71,7 @@ $(document).ready(function() {
                 "speaker" : "Asst.Lect. Emil Ungureanu MD, PhD ; Asst. Lect. Ștefan Oprea MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/First steps in cataract surgeryBUN .jpg'
+                "imgsrc" : 'img/ws/cataract-min.jpg'
             },
                  {
                 "uid" : "",
@@ -82,7 +82,7 @@ $(document).ready(function() {
                 "speaker" : "Lect. Cosmin Marian Panțu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/Heart DissectionBUN.jpg'
+                "imgsrc" : 'img/ws/heart-dissect-min.jpg'
             },
                  {
                 "uid" : "",
@@ -93,7 +93,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws2/The Perfect MatchBUN.jpg'
+                "imgsrc" : 'img/ws/'
                      
             },
             {
@@ -115,7 +115,7 @@ $(document).ready(function() {
                 "speaker" : "Biol. Dumitru Jardan, PhD ; Biol. Mihaela Dragomir ; Asst. Lect. Andra Grigore, MD, PhD ; Prof. Daniel Coriu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/New Generation Sequencing - Applications in Biomedical Research.jpg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -183,7 +183,7 @@ $(document).ready(function() {
                 "speaker" : "",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/3D printing- Multiple Technologies and how to use them for the benefit of the patient4.jpg'
+                "imgsrc" : 'img/ws/3d-ws-min.jpg'
             },
             {
                 "uid" : "",
@@ -194,7 +194,7 @@ $(document).ready(function() {
                 "speaker" : "",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/3D printing-Applications in Medicine2.jpg'
+                "imgsrc" : 'img/ws/3dprint-app-min.jpg'
             },
             {
                 "uid" : "",
@@ -205,7 +205,7 @@ $(document).ready(function() {
                 "speaker" : "Delia Andreea Crețu, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/Airway 101.jpg'
+                "imgsrc" : 'img/ws/airway101-min.jpg'
             },
             {
                 "uid" : "",
@@ -228,7 +228,7 @@ $(document).ready(function() {
                 "speaker" : "Liana Kobilynska MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/WS BLA BLA/LIE TO ME-deconstructing a lie.gif'
+                "imgsrc" : 'img/ws/fast-min.jpg'
             },
             {
                 "uid" : "",
@@ -249,7 +249,7 @@ $(document).ready(function() {
                 "speaker" : "Psych. Cristina Ciubotaru",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Mindfulness1.jpg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -259,7 +259,7 @@ $(document).ready(function() {
                 "speaker" : "Țurlea Ioana - Ruxandra",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Clinical Case-Forensic Medicine-min1.png'
+                "imgsrc" : 'img/ws/cclegala-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -269,7 +269,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Hristea Adriana, MD, PhD ; Asst. Lect. Raluca Elena Jipa, MD, PhD ; Asst. Lect. Eliza Manea, MD, PhD ; Emanuel Condria, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Challenges for international travelers1  .jpeg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -279,7 +279,7 @@ $(document).ready(function() {
                 "speaker" : "Țurlea Ioana - Ruxandra, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Basic Autopsy Skills-min1.png'
+                "imgsrc" : 'img/Basic Autopsy Skills-min1.jpg'
             },
             {
                 "uid" : "",
@@ -290,7 +290,7 @@ $(document).ready(function() {
                 "speaker" : "Speaker: Lect. Alexandru Scafa-Udriste, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Cardiac ecography_ a story about hearts details-minBUN.jpg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -300,17 +300,17 @@ $(document).ready(function() {
                 "speaker" : "Asst.Lect. Vlad Dionisie MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Clinical Case-PsychiatryBUN.jpeg'
+                "imgsrc" : 'img/ws/ccpsihi-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
-                "years": " years 1-3, Participats: 15-21 ",
+                "years": "  ",
                 "title" : "Diagnostic: myth or disease? ",
                 "description" : "Learn how to quickly identify and select a medical issue from a medical myth. Discover the tools needed to assess all the data available and learn how to process it in order to become a true Medical-mythbuster! ",
                 "speaker" : "Speaker: Cosmin-Viorel Bogu, 5th year student",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Diagnostic- myth or diseases_-minBUN.jpg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -320,7 +320,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Carmen Cristescu Md Phd",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/HAndling ultrasound during critical situations-minBUN.png'
+                "imgsrc" : 'img/ws/handling-ultrasound-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -330,7 +330,7 @@ $(document).ready(function() {
                 "speaker" : "Asst. Lect. Osama M. Odat, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/How to read an X-rayBUN.jpeg'
+                "imgsrc" : 'img/ws/how-to-xray-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -350,7 +350,7 @@ $(document).ready(function() {
                 "speaker" : "Andrei Vișoianu, MD ; Alina Smaranda, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/The challengies of treating sports injuries - clinical casesBUN.jpg'
+                "imgsrc" : 'img/ws/'
             },{
                 "uid" : "",
                 "category" : "",
@@ -380,7 +380,7 @@ $(document).ready(function() {
                 "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Bedside Manner - Kids vs Adults-min.jpg'
+                "imgsrc" : 'img/ws/bedside-manner-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -390,7 +390,7 @@ $(document).ready(function() {
                 "speaker" : "Lifesim",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/Basic Clinical Techniques-min.jpeg'
+                "imgsrc" : 'img/ws/bct-lifesim-min.jpg'
             },{
                 "uid" : "",
                 "category" : "",

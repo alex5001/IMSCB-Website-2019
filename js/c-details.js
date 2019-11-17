@@ -15,7 +15,7 @@ $(document).ready(function() {
                 "speaker" : "Professor Bogdan Ovidiu Popescu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : "img/c/sciences-min.jpg"
+                "imgsrc" : "img/c/"
             },
                  {
                 "uid" : "",
