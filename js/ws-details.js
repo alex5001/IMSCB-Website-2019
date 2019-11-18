@@ -26,7 +26,7 @@ $(document).ready(function() {
                 "description" : "Breast tumours and inflammatory diseases concerning this area have always been associated with imposing a great impact upon patients, both medically and socially. This workshop aims to teach the participants, using a hands-on approach, how to recognize and describe the pathology associated with the most common types of breast cancer and benign afflictions. ",
                 "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
                 "location" : "Victor Babes National Institute",
-                "time" : new Date(2019, 11, 08, 08, 00)
+                "time" : new Date(2019, 11, 08, 08, 00),
                 "imgsrc" : 'img/ws/breast-path.jpg'
             },
                  {
