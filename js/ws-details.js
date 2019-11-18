@@ -15,7 +15,7 @@ $(document).ready(function() {
                 "speaker" : "Lect. Tarta Eugen, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : "../img/"
+                "imgsrc" : "../img/ws/supratentorial-cerebral.jpg"
             },
             
                  {
@@ -27,7 +27,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/breast-path.jpg'
             },
                  {
                 "uid" : "",
@@ -93,7 +93,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc. Prof. Maria Victoria Comănescu MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/perfect-match.jpg'
                      
             },
             {
@@ -115,7 +115,7 @@ $(document).ready(function() {
                 "speaker" : "Biol. Dumitru Jardan, PhD ; Biol. Mihaela Dragomir ; Asst. Lect. Andra Grigore, MD, PhD ; Prof. Daniel Coriu, MD, PhD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws/'
+                "imgsrc" : 'img/ws/newgeneration.jpg'
             },{
                 "uid" : "",
                 "category" : "",
@@ -609,7 +609,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc.Prof. Radu-Iulian Spătaru",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/Mastering the surgical procedure of cleft lip and palate (1).jpg'
+                "imgsrc" : 'img/ws/cleft-lip.jpg'
             },
             {
                 "uid" : "",
@@ -708,7 +708,7 @@ $(document).ready(function() {
                 "speaker" : "Sebastian Pavel, MD",
                 "location" : "",
                 "time" : "",
-                "imgsrc" : 'img/ws3/0Treating the brain with 3D technology-min.jpeg'
+                "imgsrc" : 'img/ws/3dbrain.jpg'
             },
             {
                 "uid" : "",
