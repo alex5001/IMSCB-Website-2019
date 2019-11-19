@@ -25,7 +25,7 @@ $(document).ready(function() {
                 "title" : "Mainting young the ageing brain",
                 "description" : "Neurodegenerative disease is an umbrella term for a range of conditions which primarily affect the neurons in the human brain, so the progressive loss of structure or function of neurons can lead to  amyotrophic lateral sclerosis, Parkinson's disease, Alzheimer's disease and other diseases. The purpose of the conference is to inform you about how to keep your brain young and how to slow down the neurodegeneration!",
                 "speaker" : "Liana Kobylinska, MD, PhD",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 12, 00),
                 "imgsrc" : 'img/c/maintaining young the ageing brain.jpg'
@@ -73,7 +73,7 @@ $(document).ready(function() {
                 "title" : "Mistakes we make as parents",
                 "description" : "This talk will draw on Dr Qureshi's expertise in Paediatrics, and look at the history of vaccines, how they work, and how to approach the consultation about vaccine consent. It will unpick the anti-Vaxx movement, including what we need to know in order to address parental concerns.",
                 "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 16, 00),
                 "imgsrc" : 'img/c/Mistakes we make as parents-min.jpg'
@@ -147,7 +147,7 @@ $(document).ready(function() {
                 "title" : "Extracellular vesicles - exosomes and ectosomes ",
                 "description" : "Long- and short-distance communication can take multiple forms. Among them are exosomes and ectosomes, extracellular vesicles (EVs) released from the cell to deliver signals to different target cells. A very interesting workshop in which we will find out details about extracellular vesicles, what they are, how they can be determined, and what practical applications one might expect in the future.",
                 "speaker" : "Asst.Lect. Luciana Pavelescu MD, PhD ; Asst. Lect. Laura Caravia MD, PhD ",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 09, 00),
                 "imgsrc" : 'img/ws/exosomes-min.jpg'
@@ -196,7 +196,7 @@ $(document).ready(function() {
                 "title" : "Essential Microbiology Techniques",
                 "description" : "In our medical practice, we will always be faced with all types of cases, each of them different from the other. Nowadays, laboratory medicine seems less and less important in the eyes of medical students and that is why our goal is to make you see its importance. The Essential Microbiology Techniques workshop will show you how a microbiologist works in order to determine a diagnosis that will help the clinician establish the best treatment.",
                 "speaker" : "Prof. Mircea Ioan Popa, MD, PhD",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 10, 00),
                 "imgsrc" : 'img/WS BLA BLA/Essential Microbiology Techniques.png'
@@ -246,7 +246,7 @@ $(document).ready(function() {
                 "title" : "3D printing: Multiple Technologies and how to use them for the benefit of the patient",
                 "description" : "3D printing is a modern technology that can be used to propel medicine in a new era, the era of personalized medicine. In this workshop we will talk about different 3D-printing technologies focusing on the advantages and disadvantages of using each one to create better 3D printed patient-specific models. We will also showcase some clinical cases where we used 3D printing and talk about how these models helped in patient treatment/ medical personnel education.",
                 "speaker" : "AMRB3D",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 11, 30) ,
                 "imgsrc" : 'img/ws/3d-ws-min.jpg'
@@ -258,7 +258,7 @@ $(document).ready(function() {
                 "title" : "3D Printing: Applications in Medicine",
                 "description" : "3D printing is a modern technology that can be used to propel medicine in a new era, the era of personalized medicine. In this workshop you will learn how we obtain a patient-specific 3D printed model  starting from a CT exam. We will also talk about certain uses of these models in different pathologies.",
                 "speaker" : "AMRB3D",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 09, 00),
                 "imgsrc" : 'img/ws/3dprint-app-min.jpg'
@@ -306,7 +306,7 @@ $(document).ready(function() {
                 "title" : " LIE TO ME-Deconstructing a lie",
                 "description" : "How do we detect a lie? Can we be able to realize when someone is lying? This workshop it is an excellent opportunity to find out how to deconstruct a lie and how to find out the truth!",
                 "speaker" : "Liana Kobilynska MD, PhD",
-                "locationname" : "University of Agronomic Scinecies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 16, 00),
                 "imgsrc" : 'img/ws/fast-min.jpg'
@@ -318,7 +318,7 @@ $(document).ready(function() {
                 "title" : "Fear of the unknown - how do we justify bullying?",
                 "description" : "LGBT is an initialism used since 1990s that stands for lesbian, gay, bisexual, and transgender. As we all know LGBT people are targeted for bullying, assault, discrimination, all this contributing to depression and suicide in the adulthood. If you want to find out more about this sensitive subject, this workshop it is an excellent opportunity!",
                 "speaker" : "Liana Kobylinska MD, PhD",
-                "locationname" : "University of Agronomic Scinecies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 09, 00),
                 "imgsrc" : 'img/WS BLA BLA/Fear of the unknown-how do we justify bullying.jpg'
@@ -330,7 +330,7 @@ $(document).ready(function() {
                 "title" : "Mindfulness",
                 "description" : "Is your life too busy so you don’t have time to stop and stare? Has it been a long time since you felt truly happy? Do you feel like your life, your purpose and your wishes are in a blur and you can’t figure out what to do next? If the answer to these questions is yes then we welcome you to join us in this workshop and figure it out together.",
                 "speaker" : "Psych. Cristina Ciubotaru",
-                "locationname" : "University of Agronomic Scinecies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 12, 00),
                 "imgsrc" : 'img/ws/plasticity-min.jpg'
@@ -418,7 +418,7 @@ $(document).ready(function() {
                 "title" : "Handling ultrasound during critical situations",
                 "description" : "This workshop will teach you how to react properly in emergency situations. You are going to learn how to withstand the pressure of a wounded patient and how to set a diagnosis based on the information given by the ultrasound scans you are required to read and observe.",
                 "speaker" : "Asst. Lect. Carmen Cristescu Md Phd",
-                "locationname" : "University of Agronomic Scinecies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 10, 00),
                 "imgsrc" : 'img/ws/handling-ultrasound-min.jpg'
@@ -490,7 +490,7 @@ $(document).ready(function() {
                 "title" : "Between Ups and Downs on an ECG - Advanced",
                 "description" : "No matter what your specialty will be, as a doctor you must know how to interpret an ECG. We are here to help you broaden your medical knowledge and this workshop is the best way not only to practice what you have already learned, but also to make the first steps into understanding the complexity of an ECG.",
                 "speaker" : "Corneliu Iorgulescu, MD",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "time" : new Date(2019, 11, 07, 10, 00),
                 "imgsrc" : 'img/ws3/Between Ups and Downs on an ECG (1)-min.jpg'
             },
@@ -526,7 +526,7 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "I",
                 "years": "Priority years 1-3",
-                "title" : "Eco 101",
+                "title" : "A Simple Way To Understand Ultrasonography",
                 "description" : "As students, our first encounter with an ultrasound is, in most cases, terrifying. We think to ourselves “Will I ever manage to understand any of this?”. This workshop aims to talk you through the basics of performing and reading an ultrasound, explaining everything you need to know about identifying physiological and pathological structures, as well as interpreting your findings.",
                 "speaker" : "Theodor Badea, MD",
                 "locationname" : "Carol Davila University of Medicine and Pharmacy",
@@ -541,7 +541,7 @@ $(document).ready(function() {
                 "title" : "Clinical Case: Cardiology",
                 "description" : "We invite you to participate in the Clinical Case - Cardiology workshop, where you will have the opportunity to use all the skills and knowledge you have gained so far, and together with your team, to solve the cases we have prepared for you. We have the pleasure to announce that this year this workshop enjoys a new platform which is called Bodyinteract, a virtual medical simulation experience",
                 "speaker" : "Asst. Lect. Alexandru George Cotoban, MD, PhD",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 11, 00),
                 "imgsrc" : 'img/ws/cccardio-min.jpg'
@@ -589,7 +589,7 @@ $(document).ready(function() {
                 "title" : "Central Venous Catheterization - Theory & Practice",
                 "description" : "What if you are in the ER and your patient is crashing? What if you really need to administer intravenous medication and there is no i.v. line available? Learn how to quickly set a central venous catheter into place, the DOs and DON'Ts of the procedure and try it yourself on a realistic simulator!",
                 "speaker" : "Doru Cristian Hociotă, MD",
-                "locationname" : "University of Agronomic Sciencies and Veterinary Medicine",
+                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
                 "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
                 "time" : new Date(2019, 11, 07, 10, 00),
                 "imgsrc" : 'img/ws/cateter-venos-min.jpg'
@@ -940,7 +940,7 @@ $(document).ready(function() {
             {
                 "uid" : "",
                 "category" : "I",
-                "years": "",
+                "years": "Priority years 1-2",
                 "title" : "RSSS Knots & Sutures",
                 "description" : "RSSS's Knots & Sutures, an already classic surgical workshop, is great for beginners! If you know nothing about surgery, this is where you should start. You will become familiar with the main surgical instruments, learn how to manage a surgical wound and practice elementary surgical procedures such as knots, incisions and several types of sutures. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
                 "speaker" : "RSSS",
@@ -956,7 +956,7 @@ $(document).ready(function() {
             {
                 "uid" : "",
                 "category" : "I",
-                "years": "Priority years 1-2",
+                "years": "Priority years 3-6",
                 "title" : "RSSS mini Skills in Bowel Surgery",
                 "description" : "This workshop will present the key principles behind bowel surgery. You will become familiar with Roux-en-Y reconstructions, appendectomy, bariatric surgery, colon surgery and intestinal anastomoses and you will even perform some of them. The workshop will be divided into a theoretical and a practical part - during the latter you will repeat the procedures shown by an instructor, until you master them.",
                 "speaker" : "RSSS",
@@ -1024,7 +1024,7 @@ $(document).ready(function() {
             //title
             evData.conferences[i+1].description = evData.conferences[i].description;
             evData.conferences[i+1].speaker = evData.conferences[i].speaker;
-            evData.conferences[i+1].location = evData.conferences[i].location;
+            evData.conferences[i+1].locationname = evData.conferences[i].locationname;
             evData.conferences[i+1].locationlink = evData.conferences[i].locationlink;
             //time
             evData.conferences[i+1].imgsrc = evData.conferences[i].imgsrc;
@@ -1038,7 +1038,7 @@ $(document).ready(function() {
             //title
             evData.fundamentals[i+1].description = evData.fundamentals[i].description;
             evData.fundamentals[i+1].speaker = evData.fundamentals[i].speaker;
-            evData.fundamentals[i+1].location = evData.fundamentals[i].location;
+            evData.fundamentals[i+1].locationname = evData.fundamentals[i].locationname;
             evData.fundamentals[i+1].locationlink = evData.fundamentals[i].locationlink;
             //time
             evData.fundamentals[i+1].imgsrc = evData.fundamentals[i].imgsrc;
@@ -1052,7 +1052,7 @@ $(document).ready(function() {
             //title
             evData.medicals[i+1].description = evData.medicals[i].description;
             evData.medicals[i+1].speaker = evData.medicals[i].speaker;
-            evData.medicals[i+1].location = evData.medicals[i].location;
+            evData.medicals[i+1].locationname = evData.medicals[i].locationname;
             evData.medicals[i+1].locationlink = evData.medicals[i].locationlink;
             //time
             evData.medicals[i+1].imgsrc = evData.medicals[i].imgsrc;
@@ -1066,7 +1066,7 @@ $(document).ready(function() {
             //title
             evData.surgicals[i+1].description = evData.surgicals[i].description;
             evData.surgicals[i+1].speaker = evData.surgicals[i].speaker;
-            evData.surgicals[i+1].location = evData.surgicals[i].location;
+            evData.surgicals[i+1].locationname = evData.surgicals[i].locationname;
             evData.surgicals[i+1].locationlink = evData.surgicals[i].locationlink;
             //time
             evData.surgicals[i+1].imgsrc = evData.surgicals[i].imgsrc;
@@ -1222,47 +1222,57 @@ $(document).ready(function() {
     console.log(evData);
     
     /*** Eliminating duplicates ***/
-    var cDuplicates = [];
+    var duplicates = [];
     for(i=0; i < evData.conferences.length-1; i++){
         if( evData.conferences[i].title === evData.conferences[i+1].title ){
-            cDuplicates.push(i+1);
+            duplicates.push(i+1);
         }
     }
-    for(i=0; i < cDuplicates.length; i++){
-        evData.conferences.splice(i,1);
+    for(i=0; i < duplicates.length; i++){
+        evData.conferences.splice(duplicates[i],1);
+        for(k=i; k < duplicates.length; k++){
+            duplicates[k] = duplicates[k] - 1;
+        }
     }
     
-    var fDuplicates = [];
+    var duplicates = [];
     for(i=0; i < evData.fundamentals.length-1; i++){
         if( evData.fundamentals[i].title === evData.fundamentals[i+1].title ){
-            fDuplicates.push(i+1);
+            duplicates.push(i+1);
         }
     }
-    for(i=0; i < fDuplicates.length; i++){
-        evData.fundamentals.splice(i,1);
+    for(i=0; i < duplicates.length; i++){
+        evData.fundamentals.splice(duplicates[i],1);
+        for(k=i; k < duplicates.length; k++){
+            duplicates[k] = duplicates[k] - 1;
+        }
     }
     
-    var mDuplicates = [];
+    var duplicates = [];
     for(i=0; i < evData.medicals.length-1; i++){
         if( evData.medicals[i].title === evData.medicals[i+1].title ){
-            mDuplicates.push(i+1);
+            duplicates.push(i+1);
         }
     }
-    for(i=0; i < mDuplicates.length; i++){
-        evData.medicals.splice(i,1);
+    for(i=0; i < duplicates.length; i++){
+        evData.medicals.splice(duplicates[i],1);
+        for(k=i; k < duplicates.length; k++){
+            duplicates[k] = duplicates[k] - 1;
+        }
     }
     
-    var sDuplicates = [];
+    var duplicates = [];
     for(i=0; i < evData.surgicals.length-1; i++){
         if( evData.surgicals[i].title === evData.surgicals[i+1].title ){
-            sDuplicates.push(i+1);
+            duplicates.push(i+1);
         }
     }
-    for(i=0; i < sDuplicates.length; i++){
-        evData.surgicals.splice(i,1);
+    for(i=0; i < duplicates.length; i++){
+        evData.surgicals.splice(duplicates[i],1);
+        for(k=i; k < duplicates.length; k++){
+            duplicates[k] = duplicates[k] - 1;
+        }
     }
-    
-    console.log(evData);
     
     
     /*** Static data loading ***/
