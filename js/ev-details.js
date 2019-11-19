@@ -749,7 +749,7 @@ $(document).ready(function() {
                 "speaker" : "Assoc.Prof. Radu-Iulian Spătaru",
                 "locationname" : "Marie S. Curie Children's Clinical Hospital",
                 "locationlink" : "https://goo.gl/maps/XRXpWybXUsqPMGRaA",
-                "time" : new Date(2019, 11, 05, 09, 00),
+                "time" : new Date(2019, 11, 06, 09, 00),
                 "imgsrc" : 'img/ws/cleft-lip.jpg'
             },
             {
