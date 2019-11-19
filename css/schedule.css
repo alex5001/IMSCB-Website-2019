@@ -60,6 +60,9 @@
   .event {
     width: 70vw;
   }
+  .event-metadata {
+    flex-direction: row;
+  }
 }
 /***** Mobile *****/
 @media only screen and (max-width: 768px) {
@@ -68,5 +71,8 @@
   }
   .event {
     width: 94vw;
+  }
+  .event-metadata {
+    flex-direction: column;
   }
 }
