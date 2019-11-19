@@ -1,0 +1,115 @@
+
+/***** Across all devices *****/
+
+#schedule-intro
+{
+    background: url(../img/schedule-bg.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    .terms-section-link
+    {
+        margin: .5em;
+    }
+}
+
+#schedule-content
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+//    padding: 3vw;
+    p
+    {
+//        max-width: 100ch;
+    }
+}
+
+.event-header
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 1em;
+    margin: .2em;
+    border-radius: 1em;
+    color: white;
+    cursor: pointer;
+//    .event-hour
+//    {
+//        align-self: flex-start;
+//    }
+//    .event-title
+//    {
+//        align-self: center;
+//    }
+//    .event-category
+//    {
+//        align-self: flex-end;
+//    }
+}
+
+.event-details
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+//    padding: 0 5%;
+    .event-metadata
+    {
+        display: flex;
+        align-items: center;
+        padding: 1em;
+        .meta-item
+        {
+            margin: 0 1em;
+        }
+    }
+    .speaker
+    {
+        font-style: oblique;
+    }
+    .event-description
+    {
+        align-self: center;
+        padding: 0 2em 0 2em;
+        max-width: 100ch;
+    }
+    .event-requirements
+    {
+        padding: 1em;
+    }
+}
+
+/***** Desktop *****/
+@media only screen and (min-width: 769px) {
+    
+    #schedule-content
+    {
+        padding: 0 15vw 0 15vw;
+    }
+    .event
+    {
+        width: 70vw;
+    }
+    
+}
+
+
+/***** Mobile *****/
+@media only screen and (max-width: 768px) {
+    
+    #schedule-content
+    {
+        padding: 0 3vw 0 3vw;
+    }
+    .event
+    {
+        width: 94vw;
+    }
+    
+}

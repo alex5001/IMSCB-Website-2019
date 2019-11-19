@@ -79,7 +79,7 @@ body {
 .sticky-navigation {
   position: sticky;
   z-index: 100;
-  top: 10vh;
+  top: 0;
   width: 100vw;
   display: flex;
   flex-wrap: wrap;
@@ -117,10 +117,12 @@ body {
     width: 100%;
     height: 0;
     padding: 0;
+    margin: 0;
   }
   .sticky-navigation .sticky-mobile-ctrl {
     width: 100%;
     display: block;
+    margin: 0;
   }
 }
 /***** SLIDER WIDGET *****/
@@ -218,6 +220,60 @@ body {
   .slide-text {
     max-width: 60ch;
     padding: 7vw;
+  }
+}
+/*** Event Showcase ***/
+#ev-showcase {
+  position: fixed;
+  z-index: 10000;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#ev-showcase img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#ev-showcase #sc-details-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+#ev-showcase #sc-details-wrap #sc-ev-title {
+  align-self: flex-start;
+}
+#ev-showcase #sc-details-wrap #sc-ev-speaker {
+  align-self: flex-start;
+}
+#ev-showcase #sc-details-wrap #sc-ev-location {
+  align-self: flex-start;
+}
+/***** 1000px Breakpoint *****/
+/***** Over *****/
+@media only screen and (min-width: 1001px) {
+  #ev-showcase {
+    padding: 10vh 15vw;
+  }
+  #ev-showcase #sc-details-wrap {
+    padding: 5vw;
+    justify-content: flex-start;
+  }
+}
+/***** Under *****/
+@media only screen and (max-width: 1000px) {
+  #ev-showcase {
+    padding: 10vw;
+  }
+  #ev-showcase #sc-details-wrap {
+    max-height: 90vh;
+    overflow: scroll;
+    justify-content: flex-start;
   }
 }
 @media only screen and (max-width: 768px) {

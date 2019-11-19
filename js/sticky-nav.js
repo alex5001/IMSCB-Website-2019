@@ -15,4 +15,13 @@ $(document).ready(function() {
         }
     });
     
+    $('.sticky-navigation > .terms-section-link').click(function(){
+        if( $(window).width() < 769 ){
+            $('.sticky-navigation > .terms-section-link').animate({
+                "height": "0px",
+                "padding": "0px"
+            }, 500);
+        }
+    });
+    
 });
