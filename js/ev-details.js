@@ -1219,8 +1219,6 @@ $(document).ready(function() {
         $('.intro-links').html(introLinksHTML);
     }
     
-    console.log(evData);
-    
     /*** Eliminating duplicates ***/
     var duplicates = [];
     for(i=0; i < evData.conferences.length-1; i++){
@@ -1329,7 +1327,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.fundamentals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }else{
@@ -1339,7 +1337,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.fundamentals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }
@@ -1357,7 +1355,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.medicals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }else{
@@ -1367,7 +1365,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.medicals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }
@@ -1385,7 +1383,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.surgicals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }else{
@@ -1395,7 +1393,7 @@ $(document).ready(function() {
                                         +"<img src=\"img/ws/ws-filter.png\" alt=\"\" class=\" ws-filter object-cover\">"
                                         +"<div class=\"ws-details\">"
                                             +"<h3 class=\"ws-title\">"+evData.surgicals[i].title+"</h3>"
-                                            +"<span class=\"ws-details-link btn\">Conference Details</span>"
+                                            +"<span class=\"ws-details-link btn\">Workshop Details</span>"
                                         +"</div>"
                                     +"</div>";
                 }
