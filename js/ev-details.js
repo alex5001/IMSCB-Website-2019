@@ -712,7 +712,7 @@ $(document).ready(function() {
                 "locationname" : "Ponderas Academic Hospital",
                 "locationlink" : "https://goo.gl/maps/XR45UYU9Hmu8kdPu5",
                 "time" : new Date(2019, 11, 05, 09, 00),
-                "imgsrc" : 'img/ws/als-min.jpg'
+                "imgsrc" : 'img/ws/mechanical-ventilation-min.jpg'
             },
             {
                 "uid" : "",
@@ -724,7 +724,7 @@ $(document).ready(function() {
                 "locationname" : "Ponderas Academic Hospital",
                 "locationlink" : "https://goo.gl/maps/XR45UYU9Hmu8kdPu5",
                 "time" : new Date(2019, 11, 05, 11, 00),
-                "imgsrc" : 'img/ws/als-min.jpg'
+                "imgsrc" : 'img/ws/cough-assist-min.jpg'
             }
         ],
         "surgicals": [
