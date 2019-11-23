@@ -911,8 +911,7 @@ $(document).ready(function() {
                 "locationlink" : "https://goo.gl/maps/hXsuGovwbpLD6aLY7",
                 "time" : new Date(2019, 11, 06, 17, 00),
                 "imgsrc" : 'img/ws/cohlear-min.jpg'
-            }
-         ,
+            },
             {
                 "uid" : "",
                 "category" : "II",
@@ -1013,6 +1012,52 @@ $(document).ready(function() {
                 "time" : new Date(2019, 11, 07, 09, 00),
                 "imgsrc" : 'img/ws2/0RSSS-Vascular-min.jpg'
             }
+        ],
+        "specials": [
+            // {
+            //     "uid" : "",
+            //     "category" : "P",
+            //     "years": "",
+            //     "title" : "Oral Presentations",
+            //     "description" : "Description",
+            //     "speaker" : "You.",
+            //     "locationname" : "Hospital Professor Dr. Theodor Burghele",
+            //     "locationlink" : "https://goo.gl/maps/mq7RZ5JMc2gtLtAf7",
+            //     "time" : new Date(2019, 1, 07, 09, 00),
+            // },
+            // {
+            //     "uid" : "",
+            //     "category" : "KN",
+            //     "years": "",
+            //     "title" : "The Sexual Reassignment Surgery/ BIA-ALCL: an Emerging Pathology",
+            //     "description" : "Gender dysphoria emerged as a term designated to define the situation of a patient that doesn’t recognize his assigned gender to be his identity gender. Plastic surgeons often deal with patients experiencing gender dysphoria that require sex reassignment surgery. However, facing life threatening afflictions, such as anaplastic large cell lymphoma and other pathologies emerging from this subject, it is our duty as doctors to find ways to do prophylaxis as well as find the best way to treat already established disorders, affecting the patient as little as possible.",
+            //     "speaker" : "Prof.	Fabio Santanelli di Pompeo, MD, PhD",
+            //     "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+            //     "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+            //     "time" : new Date(2019, 11, 05, 14, 00),
+            // },
+            // {
+            //     "uid" : "",
+            //     "category" : "KN",
+            //     "years": "",
+            //     "title" : "The power of nutrition: healthy food for a longer living",
+            //     "description" : "",
+            //     "speaker" : "Niklas Oppenrieder, MD",
+            //     "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+            //     "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+            //     "time" : new Date(2019, 11, 06, 14, 00),
+            // },
+            // {
+            //     "uid" : "",
+            //     "category" : "KN",
+            //     "years": "",
+            //     "title" : "Geriatrics and Gerontology in Romania. Traditions and Continuity",
+            //     "description" : "A characteristic of the last few decades is the increasing geriatric population, caused by the decreasing of natality, the evolution of medicine and also by the increasing life expectancy. The National Institute of Geriatrics and Gerontology was established on 22 January 1952 by Ana Aslan. Being the world’s first institute of geriatrics and gerontology, it is also the place where Ana Aslan studied and developed an anti-aging medicine called Gerovital H3. How did she discover this medicine? Why did John F. Kennedy, Charles de Gaulle and even Pablo Picasso followed this treatment? How did Ana Aslan discoveries influenced the evolution of Geriatrics and Gerontology? Prof. Gabriel Ioan Prada, MD, PhD is going to answer you all this questions and reveal the magic behind anti-aging treatments in a astounding keynote called “Geriatrics and Gerontology in Romania. Traditions and Continuity”.",
+            //     "speaker" : "Prof.	Gabriel Ioan Prada, MD, PhD",
+            //     "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+            //     "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+            //     "time" : new Date(2019, 11, 07, 14, 00),
+            // }
         ]
     };
     
@@ -1072,6 +1117,20 @@ $(document).ready(function() {
             evData.surgicals[i+1].imgsrc = evData.surgicals[i].imgsrc;
         }
     }
+    for(i=0; i < evData.specials.length-1; i++){
+        if( evData.specials[i].title === evData.specials[i+1].title ){
+            evData.specials[i+1].uid = evData.specials[i].uid;
+            evData.specials[i+1].category = evData.specials[i].category;
+            evData.specials[i+1].years = evData.specials[i].years;
+            //title
+            evData.specials[i+1].description = evData.specials[i].description;
+            evData.specials[i+1].speaker = evData.specials[i].speaker;
+            evData.specials[i+1].locationname = evData.specials[i].locationname;
+            evData.specials[i+1].locationlink = evData.specials[i].locationlink;
+            //time
+            evData.specials[i+1].imgsrc = evData.specials[i].imgsrc;
+        }
+    }
     
     
     /*** Schedule Page Data Processing ***/
@@ -1081,7 +1140,7 @@ $(document).ready(function() {
         // Copy missing data for duplicates
         
         // Make a single array with all the workshops & sort them by date
-        var ccData = evData.conferences.concat(evData.fundamentals, evData.medicals, evData.surgicals);
+        var ccData = evData.conferences.concat(evData.fundamentals, evData.medicals, evData.surgicals, evData.specials);
         ccData.sort((a, b) => (a.time > b.time) ? 1 : -1);
         
         // Make an object organized by day
@@ -1182,6 +1241,12 @@ $(document).ready(function() {
                 } else if( category === "C" ){
                     category = "Conference";
                     categoryColor = "#2980b9";
+                } else if( category === "P" ){
+                    category = "Pres";
+                    categoryColor = "#27ae60";
+                }else if( category === "KN" ){
+                    category = "Keynote";
+                    categoryColor = "#8e44ad";
                 } else {
                     category = "Invalid category!";
                     categoryColor = "#000";
