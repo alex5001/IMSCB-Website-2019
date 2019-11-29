@@ -25,8 +25,8 @@ $(document).ready(function() {
                 "title" : "Mainting young the ageing brain",
                 "description" : "Neurodegenerative disease is an umbrella term for a range of conditions which primarily affect the neurons in the human brain, so the progressive loss of structure or function of neurons can lead to  amyotrophic lateral sclerosis, Parkinson's disease, Alzheimer's disease and other diseases. The purpose of the conference is to inform you about how to keep your brain young and how to slow down the neurodegeneration!",
                 "speaker" : "Liana Kobylinska, MD, PhD",
-                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
-                "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
+                "locationname" : "Victor Babes National Institute",
+                "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
                 "time" : new Date(2019, 11, 07, 12, 00),
                 "imgsrc" : 'img/c/maintaining young the ageing brain.jpg'
             },
@@ -73,8 +73,8 @@ $(document).ready(function() {
                 "title" : "Mistakes we make as parents",
                 "description" : "This talk will draw on Dr Qureshi's expertise in Paediatrics, and look at the history of vaccines, how they work, and how to approach the consultation about vaccine consent. It will unpick the anti-Vaxx movement, including what we need to know in order to address parental concerns.",
                 "speaker" : "Zeshan Quresi, BM MRCPCH MSc BSc (Hons)",
-                "locationname" : "University of Agronomic Sciences and Veterinary Medicine",
-                "locationlink" : "https://goo.gl/maps/QBmNwbaky8HfRkr3A",
+                "locationname" : "Victor Babes National Institute",
+                "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
                 "time" : new Date(2019, 11, 07, 16, 00),
                 "imgsrc" : 'img/c/Mistakes we make as parents-min.jpg'
             },
@@ -82,12 +82,24 @@ $(document).ready(function() {
                 "uid" : "",
                 "category" : "C",
                 "years": "",
-                "title" : "Trauma in geriatric patients- between risks and healing",
+                "title" : "Trauma in geriatric patients - between risks and healing",
                 "description" : "",
                 "speaker" : "Hani Al-Qadhi, MD, FRCSC ;Sultan Qaboos University Hospital",
                 "locationname" : "Carol Davila University of Medicine and Pharmacy",
                 "locationlink" : "https://goo.gl/maps/hXsuGovwbpLD6aLY7",
                 "time" : new Date(2019, 11, 06, 17, 00),
+                "imgsrc" : 'img/c/Trauma in geriatric patients- between risks and healing-min.jpeg'
+            },
+            {
+                "uid" : "",
+                "category" : "C",
+                "years": "",
+                "title" : "Inflammation and oxidative stress through rheumatologist experience",
+                "description" : "",
+                "speaker" : "Assoc. Prof. Florian Berghea, Alfasigma",
+                "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+                "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+                "time" : new Date(2019, 11, 06, 14, 00),
                 "imgsrc" : 'img/c/Trauma in geriatric patients- between risks and healing-min.jpeg'
             }
         ],
@@ -1078,7 +1090,7 @@ $(document).ready(function() {
                 "speaker" : "Niklas Oppenrieder, MD, Aschaffenburg Hospital, <br> Assoc. Prof. Sanda Maria Crețoiu, MD, PhD",
                 "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
                 "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
-                "time" : new Date(2019, 11, 06, 14, 00),
+                "time" : new Date(2019, 11, 06, 14, 30),
             },
             {
                 "uid" : "",
@@ -1090,6 +1102,61 @@ $(document).ready(function() {
                 "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
                 "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
                 "time" : new Date(2019, 11, 07, 14, 00),
+            },
+            {
+                "uid" : "",
+                "category" : "CK",
+                "years": "",
+                "title" : "Check In @ 10.00 - 16.00",
+                "description" : "Between 10.00 and 16.00",
+                "speaker" : "",
+                "locationname" : "Carol Davila University of Medicine and Pharmacy",
+                "locationlink" : "https://goo.gl/maps/hXsuGovwbpLD6aLY7",
+                "time" : new Date(2019, 11, 04, 10, 00),
+            },
+            {
+                "uid" : "",
+                "category" : "CK",
+                "years": "",
+                "title" : "Check In @ 08.00 - 12.00",
+                "description" : "Between 08.00 and 12.00",
+                "speaker" : "",
+                "locationname" : "Carol Davila University of Medicine and Pharmacy",
+                "locationlink" : "https://goo.gl/maps/hXsuGovwbpLD6aLY7",
+                "time" : new Date(2019, 11, 05, 08, 00),
+            },
+            {
+                "uid" : "",
+                "category" : "CK",
+                "years": "",
+                "title" : "Check In @ 09.00 - 13.00",
+                "description" : "Between 09.00 and 13.00",
+                "speaker" : "",
+                "locationname" : "Carol Davila University of Medicine and Pharmacy",
+                "locationlink" : "https://goo.gl/maps/hXsuGovwbpLD6aLY7",
+                "time" : new Date(2019, 11, 06, 09, 00),
+            },
+            {
+                "uid" : "",
+                "category" : "CK",
+                "years": "",
+                "title" : "Check Out @ 16.00 - 18.00",
+                "description" : "Between 16.00 and 18.00",
+                "speaker" : "",
+                "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+                "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+                "time" : new Date(2019, 11, 07, 09, 00),
+            },
+            {
+                "uid" : "",
+                "category" : "CK",
+                "years": "",
+                "title" : "Check Out @ 09.00 - 13.00",
+                "description" : "Between 09.00 and 13.00",
+                "speaker" : "",
+                "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
+                "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
+                "time" : new Date(2019, 11, 08, 09, 00),
             }
         ]
     };
@@ -1277,32 +1344,57 @@ $(document).ready(function() {
                 } else if( category === "P" ){
                     category = "Pres";
                     categoryColor = "#27ae60";
-                }else if( category === "KN" ){
+                } else if( category === "KN" ){
                     category = "Keynote";
                     categoryColor = "#8e44ad";
+                } else if( category === "CK" ){
+                    categoryColor = "#16a085";
                 } else {
                     category = "Invalid category!";
                     categoryColor = "#000";
                 }
+
+                if( category === "CK" || category === "Pres"){
+                    category = "";
+                    dayEvents = dayEvents
+                    +'<div class="event">'
+                    +'    <div class="event-header" style="background-color: '+categoryColor+'">'
+                    +'        <span class="event-hour">'+time+'</span>'
+                    +'        <span class="event-title">'+title+'</span>'
+                    +'        <span class="event-category">'+category+'</span>'
+                    +'    </div>'
+                    +'    <div class="event-details">'
+                    +'        <div class="event-metadata">'
+                    +'            <span class="meta-item">'+h1Time+' @ '+time+'</span>'
+                    +'            <span class="meta-item">'+priority+'</span>'
+                    +'            <span class="meta-item">Location link:<a href="'+locationlink+'" class="btn" target="_blank">'+locationname+'</a></span>'
+                    +'        </div>'
+                    // +'        <span class="speaker">Speakers: '+speakers+'</span>'
+                    +'        <p class="event-description">'+description+'</p>'
+    //                +'        <span class="event-requirements">Requirements: Papuci and shit...</span>'
+                    +'    </div>'
+                    +'</div>';
+                } else {
+                    dayEvents = dayEvents
+                    +'<div class="event">'
+                    +'    <div class="event-header" style="background-color: '+categoryColor+'">'
+                    +'        <span class="event-hour">'+time+'</span>'
+                    +'        <span class="event-title">'+title+'</span>'
+                    +'        <span class="event-category">'+category+'</span>'
+                    +'    </div>'
+                    +'    <div class="event-details">'
+                    +'        <div class="event-metadata">'
+                    +'            <span class="meta-item">'+h1Time+' @ '+time+'</span>'
+                    +'            <span class="meta-item">'+priority+'</span>'
+                    +'            <span class="meta-item">Location link:<a href="'+locationlink+'" class="btn" target="_blank">'+locationname+'</a></span>'
+                    +'        </div>'
+                    +'        <span class="speaker">Speakers: '+speakers+'</span>'
+                    +'        <p class="event-description">'+description+'</p>'
+    //                +'        <span class="event-requirements">Requirements: Papuci and shit...</span>'
+                    +'    </div>'
+                    +'</div>';
+                }
                 
-                dayEvents = dayEvents
-                +'<div class="event">'
-                +'    <div class="event-header" style="background-color: '+categoryColor+'">'
-                +'        <span class="event-hour">'+time+'</span>'
-                +'        <span class="event-title">'+title+'</span>'
-                +'        <span class="event-category">'+category+'</span>'
-                +'    </div>'
-                +'    <div class="event-details">'
-                +'        <div class="event-metadata">'
-                +'            <span class="meta-item">'+h1Time+' @ '+time+'</span>'
-                +'            <span class="meta-item">'+priority+'</span>'
-                +'            <span class="meta-item">Location link:<a href="'+locationlink+'" class="btn" target="_blank">'+locationname+'</a></span>'
-                +'        </div>'
-                +'        <span class="speaker">Speakers: '+speakers+'</span>'
-                +'        <p class="event-description">'+description+'</p>'
-//                +'        <span class="event-requirements">Requirements: Papuci and shit...</span>'
-                +'    </div>'
-                +'</div>'
             }
             schHTML = schHTML
             + '<div class="day-content">'
