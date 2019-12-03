@@ -95,7 +95,7 @@ $(document).ready(function() {
                 "category" : "C",
                 "years": "",
                 "title" : "Inflammation and oxidative stress through rheumatologist experience",
-                "description" : "",
+                "description" : "Rheumatology is a medical specialty in permanent contact with inflammatory conditions. Inflammatory processes induces oxidative stress and reduce cellular antioxidant capacity, and reversely, oxidative stress could generate inflammation. Chronic inflammation triggered by oxidative stress can express aging processes and be a major cause of many chronic diseases, including cancer. In such pathological conditions, anti-inflammatory and antioxidant drugs may be of a great help in controlling the evolution of respective diseases.",
                 "speaker" : "Assoc. Prof. Florian Berghea, Alfasigma",
                 "locationname" : "Main Amphiteatre, “Victor Babeş” National Institute",
                 "locationlink" : "https://goo.gl/maps/y9pwpn5bb4FGjgMS7",
